@@ -1,0 +1,10 @@
+name: otbact
+title:
+username: micolab-usf
+account: micolab-usf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16347786
+bundleId: 11413081
+url: https://micolab-usf.shinyapps.io/otbact/
+version: 1

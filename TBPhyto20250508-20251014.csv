@@ -1,0 +1,918 @@
+﻿Sample Date,Sample Depth (m),Station ID,Site Name,Latitude,Longitude,Taxa,Abundance (cells/L*),Abundance Notes*,Temp (ᵒC),Salinity,DO (%),DO (mg/L),pH,Chlorophyll fluorescence (RFU),Chlorophyll fluorescence (µg/L),Turbidity (NTU),Sp Cond,Cond units,Bottom Depth (m),HAB ID
+08-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,28.96,26.432,100.168,6.661,,,5.045,,,,2.7,HABW250509-001
+08-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,28.96,26.432,100.168,6.661,,,5.045,,,,2.7,HABW250509-001
+08-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,28.96,26.432,100.168,6.661,,,5.045,,,,2.7,HABW250509-001
+08-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Gonyaulax spp.,667,,28.96,26.432,100.168,6.661,,,5.045,,,,2.7,HABW250509-001
+08-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Dinophysis spp.,667,,28.96,26.432,100.168,6.661,,,5.045,,,,2.7,HABW250509-001
+08-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,20667,,28.96,26.432,100.168,6.661,,,5.045,,,,2.7,HABW250509-001
+08-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum micans,,present,28.96,26.432,100.168,6.661,,,5.045,,,,2.7,HABW250509-001
+08-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum cordatum,,present,28.96,26.432,100.168,6.661,,,5.045,,,,2.7,HABW250509-001
+08-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,28.31,26.43,75.005,5.042,,,4.83,,,,2.7,HABW250509-002
+08-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,28.31,26.43,75.005,5.042,,,4.83,,,,2.7,HABW250509-002
+08-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,28.31,26.43,75.005,5.042,,,4.83,,,,2.7,HABW250509-002
+08-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Dinophysis caudata,667,,28.31,26.43,75.005,5.042,,,4.83,,,,2.7,HABW250509-002
+08-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Eucampia spp.,37333,,28.31,26.43,75.005,5.042,,,4.83,,,,2.7,HABW250509-002
+08-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,,present,28.31,26.43,75.005,5.042,,,4.83,,,,2.7,HABW250509-002
+08-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Ditylum brightwellii,,present,28.31,26.43,75.005,5.042,,,4.83,,,,2.7,HABW250509-002
+08-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Sundstroemia spp.,,present,28.31,26.43,75.005,5.042,,,4.83,,,,2.7,HABW250509-002
+08-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,28.79,26.581,107.506,7.163,,,3.429,,,,3.7,HABW250509-003
+08-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,28.79,26.581,107.506,7.163,,,3.429,,,,3.7,HABW250509-003
+08-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,28.79,26.581,107.506,7.163,,,3.429,,,,3.7,HABW250509-003
+08-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Chaetoceros spp.,,present,28.79,26.581,107.506,7.163,,,3.429,,,,3.7,HABW250509-003
+08-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Ditylum brightwellii,,present,28.79,26.581,107.506,7.163,,,3.429,,,,3.7,HABW250509-003
+08-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Eucampia spp.,,present,28.79,26.581,107.506,7.163,,,3.429,,,,3.7,HABW250509-003
+08-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Sundstroemia spp.,,present,28.79,26.581,107.506,7.163,,,3.429,,,,3.7,HABW250509-003
+08-May-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,28.41,27.059,105.183,7.034,,,3.557,,,,2.7,HABW250509-004
+08-May-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,28.41,27.059,105.183,7.034,,,3.557,,,,2.7,HABW250509-004
+08-May-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,28.41,27.059,105.183,7.034,,,3.557,,,,2.7,HABW250509-004
+08-May-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Prorocentrum micans,1667,,28.41,27.059,105.183,7.034,,,3.557,,,,2.7,HABW250509-004
+08-May-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Tripos hircus,2000,,28.41,27.059,105.183,7.034,,,3.557,,,,2.7,HABW250509-004
+08-May-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Diatom unidentified centric ,151581,,28.41,27.059,105.183,7.034,,,3.557,,,,2.7,HABW250509-004
+08-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,28.61,27.379,102.945,6.849,,,1.906,,,,3.2,HABW250509-005
+08-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,0,,28.61,27.379,102.945,6.849,,,1.906,,,,3.2,HABW250509-005
+08-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,28.61,27.379,102.945,6.849,,,1.906,,,,3.2,HABW250509-005
+08-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Prorocentrum micans,1333,,28.61,27.379,102.945,6.849,,,1.906,,,,3.2,HABW250509-005
+08-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Diatom unidentified centric ,,present,28.61,27.379,102.945,6.849,,,1.906,,,,3.2,HABW250509-005
+08-May-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,28.2,26.894,101.385,6.81,,,4.346,,,,5.1,HABW250509-006
+08-May-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,28.2,26.894,101.385,6.81,,,4.346,,,,5.1,HABW250509-006
+08-May-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Tripos hircus,1000,,28.2,26.894,101.385,6.81,,,4.346,,,,5.1,HABW250509-006
+08-May-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia sp.,1000,,28.2,26.894,101.385,6.81,,,4.346,,,,5.1,HABW250509-006
+08-May-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Diatom unidentified centric ,231336,,28.2,26.894,101.385,6.81,,,4.346,,,,5.1,HABW250509-006
+08-May-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Prorocentrum micans,,present,28.2,26.894,101.385,6.81,,,4.346,,,,5.1,HABW250509-006
+08-May-25,5.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,27.94,26.898,88.545,5.972,,,4.412,,,,5.1,HABW250509-007
+08-May-25,5.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,27.94,26.898,88.545,5.972,,,4.412,,,,5.1,HABW250509-007
+08-May-25,5.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,27.94,26.898,88.545,5.972,,,4.412,,,,5.1,HABW250509-007
+08-May-25,5.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Diatom unidentified centric ,,present,27.94,26.898,88.545,5.972,,,4.412,,,,5.1,HABW250509-007
+08-May-25,5.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Prorocentrum micans,,present,27.94,26.898,88.545,5.972,,,4.412,,,,5.1,HABW250509-007
+08-May-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,28,26.238,99.488,6.729,,,3.523,,,,4.2,HABW250509-008
+08-May-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,28,26.238,99.488,6.729,,,3.523,,,,4.2,HABW250509-008
+08-May-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,333,,28,26.238,99.488,6.729,,,3.523,,,,4.2,HABW250509-008
+08-May-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Dinophysis spp.,2333,,28,26.238,99.488,6.729,,,3.523,,,,4.2,HABW250509-008
+08-May-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,11333,,28,26.238,99.488,6.729,,,3.523,,,,4.2,HABW250509-008
+08-May-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Chaetoceros spp.,,present,28,26.238,99.488,6.729,,,3.523,,,,4.2,HABW250509-008
+08-May-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,27.65,26.375,73.278,4.982,,,2.742,,,,4.2,HABW250509-009
+08-May-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,27.65,26.375,73.278,4.982,,,2.742,,,,4.2,HABW250509-009
+08-May-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,27.65,26.375,73.278,4.982,,,2.742,,,,4.2,HABW250509-009
+08-May-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,1333,,27.65,26.375,73.278,4.982,,,2.742,,,,4.2,HABW250509-009
+08-May-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Chaetoceros spp.,,present,27.65,26.375,73.278,4.982,,,2.742,,,,4.2,HABW250509-009
+08-May-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,,present,27.65,26.375,73.278,4.982,,,2.742,,,,4.2,HABW250509-009
+08-May-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,27.48,27.322,89.794,6.09,,,3.402,,,,2.8,HABW250509-010
+08-May-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,27.48,27.322,89.794,6.09,,,3.402,,,,2.8,HABW250509-010
+08-May-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,27.48,27.322,89.794,6.09,,,3.402,,,,2.8,HABW250509-010
+08-May-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Diatom unidentified centric ,,present,27.48,27.322,89.794,6.09,,,3.402,,,,2.8,HABW250509-010
+08-May-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Prorocentrum micans,,present,27.48,27.322,89.794,6.09,,,3.402,,,,2.8,HABW250509-010
+08-May-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,27.37,27.323,87.439,5.941,,,3.115,,,,2.8,HABW250509-011
+08-May-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,27.37,27.323,87.439,5.941,,,3.115,,,,2.8,HABW250509-011
+08-May-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,27.37,27.323,87.439,5.941,,,3.115,,,,2.8,HABW250509-011
+08-May-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Diatom unidentified centric ,,present,27.37,27.323,87.439,5.941,,,3.115,,,,2.8,HABW250509-011
+08-May-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Tripos hircus,,present,27.37,27.323,87.439,5.941,,,3.115,,,,2.8,HABW250509-011
+08-May-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Prorocentrum micans,,present,27.37,27.323,87.439,5.941,,,3.115,,,,2.8,HABW250509-011
+08-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,28.02,27.782,98.042,6.572,,,3.733,,,,3.7,HABW250509-012
+08-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,0,,28.02,27.782,98.042,6.572,,,3.733,,,,3.7,HABW250509-012
+08-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,28.02,27.782,98.042,6.572,,,3.733,,,,3.7,HABW250509-012
+08-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Tripos hircus,333,,28.02,27.782,98.042,6.572,,,3.733,,,,3.7,HABW250509-012
+08-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Prorocentrum micans,4667,,28.02,27.782,98.042,6.572,,,3.733,,,,3.7,HABW250509-012
+08-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Diatom unidentified centric ,,present,28.02,27.782,98.042,6.572,,,3.733,,,,3.7,HABW250509-012
+08-May-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,28.13,28.277,86.566,5.783,,,2.197,,,,10.6,HABW250509-013
+08-May-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,0,,28.13,28.277,86.566,5.783,,,2.197,,,,10.6,HABW250509-013
+08-May-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,28.13,28.277,86.566,5.783,,,2.197,,,,10.6,HABW250509-013
+08-May-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Prorocentrum micans,1333,,28.13,28.277,86.566,5.783,,,2.197,,,,10.6,HABW250509-013
+08-May-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Diatom unidentified centric ,,present,28.13,28.277,86.566,5.783,,,2.197,,,,10.6,HABW250509-013
+08-May-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,27.18,29.588,80.96,5.448,,,1.854,,,,5.6,HABW250509-014
+08-May-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,0,,27.18,29.588,80.96,5.448,,,1.854,,,,5.6,HABW250509-014
+08-May-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,27.18,29.588,80.96,5.448,,,1.854,,,,5.6,HABW250509-014
+08-May-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Prorocentrum micans,,present,27.18,29.588,80.96,5.448,,,1.854,,,,5.6,HABW250509-014
+23-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,30.02,26.527,102.602,6.702,,,,,,,2.7,HABW250523-015
+23-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,30.02,26.527,102.602,6.702,,,,,,,2.7,HABW250523-015
+23-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,30.02,26.527,102.602,6.702,,,,,,,2.7,HABW250523-015
+23-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum micans,333,,30.02,26.527,102.602,6.702,,,,,,,2.7,HABW250523-015
+23-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,14667,,30.02,26.527,102.602,6.702,,,,,,,2.7,HABW250523-015
+23-May-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Chaetoceros spp.,,present,30.02,26.527,102.602,6.702,,,,,,,2.7,HABW250523-015
+23-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,29.59,26.558,86.088,5.661,,,,,,,2.7,HABW250523-016
+23-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,29.59,26.558,86.088,5.661,,,,,,,2.7,HABW250523-016
+23-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,29.59,26.558,86.088,5.661,,,,,,,2.7,HABW250523-016
+23-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Dinophysis caudata,333,,29.59,26.558,86.088,5.661,,,,,,,2.7,HABW250523-016
+23-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum spp.,667,,29.59,26.558,86.088,5.661,,,,,,,2.7,HABW250523-016
+23-May-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,124333,,29.59,26.558,86.088,5.661,,,,,,,2.7,HABW250523-016
+23-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,30.06,26.955,100.261,6.53,,,,,,,3.8,HABW250523-017
+23-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,30.06,26.955,100.261,6.53,,,,,,,3.8,HABW250523-017
+23-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Tripos hircus,333,,30.06,26.955,100.261,6.53,,,,,,,3.8,HABW250523-017
+23-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,7333,,30.06,26.955,100.261,6.53,,,,,,,3.8,HABW250523-017
+23-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Chaetoceros spp.,,present,30.06,26.955,100.261,6.53,,,,,,,3.8,HABW250523-017
+23-May-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Sundstroemia spp.,,present,30.06,26.955,100.261,6.53,,,,,,,3.8,HABW250523-017
+23-May-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,30.07,27.471,90.431,5.872,,,,,,,2.8,HABW250523-018
+23-May-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,30.07,27.471,90.431,5.872,,,,,,,2.8,HABW250523-018
+23-May-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,30.07,27.471,90.431,5.872,,,,,,,2.8,HABW250523-018
+23-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,29.96,27.739,90.431,5.873,,,,,,,3.3,HABW250523-019
+23-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,29.96,27.739,90.431,5.873,,,,,,,3.3,HABW250523-019
+23-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Prorocentrum sp.,667,,29.96,27.739,90.431,5.873,,,,,,,3.3,HABW250523-019
+23-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Tripos hircus,5000,,29.96,27.739,90.431,5.873,,,,,,,3.3,HABW250523-019
+23-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,5667,,29.96,27.739,90.431,5.873,,,,,,,3.3,HABW250523-019
+23-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Chaetoceros spp.,,present,29.96,27.739,90.431,5.873,,,,,,,3.3,HABW250523-019
+23-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Dactyliosolen fragilissimus,,present,29.96,27.739,90.431,5.873,,,,,,,3.3,HABW250523-019
+23-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Guinardia delicatula,,present,29.96,27.739,90.431,5.873,,,,,,,3.3,HABW250523-019
+23-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Ditylum brightwellii,,present,29.96,27.739,90.431,5.873,,,,,,,3.3,HABW250523-019
+23-May-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Sundstroemia spp.,,present,29.96,27.739,90.431,5.873,,,,,,,3.3,HABW250523-019
+23-May-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,29.86,27.15,89.559,5.844,,,,,,,5,HABW250523-020
+23-May-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,29.86,27.15,89.559,5.844,,,,,,,5,HABW250523-020
+23-May-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,29.86,27.15,89.559,5.844,,,,,,,5,HABW250523-020
+23-May-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Prorocentrum micans,333,,29.86,27.15,89.559,5.844,,,,,,,5,HABW250523-020
+23-May-25,5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,29.55,27.163,79.915,5.241,,,,,,,5,HABW250523-021
+23-May-25,5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,29.55,27.163,79.915,5.241,,,,,,,5,HABW250523-021
+23-May-25,5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,29.55,27.163,79.915,5.241,,,,,,,5,HABW250523-021
+23-May-25,5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Prorocentrum spp.,1333,,29.55,27.163,79.915,5.241,,,,,,,5,HABW250523-021
+23-May-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,29.54,26.645,78.785,5.184,,,,,,,4.1,HABW250523-022
+23-May-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,29.54,26.645,78.785,5.184,,,,,,,4.1,HABW250523-022
+23-May-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,29.54,26.645,78.785,5.184,,,,,,,4.1,HABW250523-022
+23-May-25,4.1,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,29.33,26.636,70.964,4.685,,,,,,,4.1,HABW250523-023
+23-May-25,4.1,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,29.33,26.636,70.964,4.685,,,,,,,4.1,HABW250523-023
+23-May-25,4.1,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Dinophysis caudata,1000,,29.33,26.636,70.964,4.685,,,,,,,4.1,HABW250523-023
+23-May-25,4.1,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,2000,,29.33,26.636,70.964,4.685,,,,,,,4.1,HABW250523-023
+23-May-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,28.97,27.25,80.747,5.344,,,,,,,2.8,HABW250523-024
+23-May-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,28.97,27.25,80.747,5.344,,,,,,,2.8,HABW250523-024
+23-May-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,28.97,27.25,80.747,5.344,,,,,,,2.8,HABW250523-024
+23-May-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Prorocentrum spp.,1000,,28.97,27.25,80.747,5.344,,,,,,,2.8,HABW250523-024
+23-May-25,2.8,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,28.95,27.254,80.21,5.31,,,,,,,2.8,HABW250523-025
+23-May-25,2.8,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,28.95,27.254,80.21,5.31,,,,,,,2.8,HABW250523-025
+23-May-25,2.8,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,28.95,27.254,80.21,5.31,,,,,,,2.8,HABW250523-025
+23-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,29.77,28.079,86.617,5.633,,,,,,,3.7,HABW250523-026
+23-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,29.77,28.079,86.617,5.633,,,,,,,3.7,HABW250523-026
+23-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Prorocentrum sp.,333,,29.77,28.079,86.617,5.633,,,,,,,3.7,HABW250523-026
+23-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia sp.,1000,,29.77,28.079,86.617,5.633,,,,,,,3.7,HABW250523-026
+23-May-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Dactyliosolen fragilissimus,,present,29.77,28.079,86.617,5.633,,,,,,,3.7,HABW250523-026
+23-May-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,29.73,28.173,81.864,5.324,,,,,,,10.6,HABW250523-027
+23-May-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,0,,29.73,28.173,81.864,5.324,,,,,,,10.6,HABW250523-027
+23-May-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,29.73,28.173,81.864,5.324,,,,,,,10.6,HABW250523-027
+23-May-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Tripos hircus,333,,29.73,28.173,81.864,5.324,,,,,,,10.6,HABW250523-027
+23-May-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Prorocentrum sp.,333,,29.73,28.173,81.864,5.324,,,,,,,10.6,HABW250523-027
+23-May-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,29.38,29.658,81.121,5.263,,,,,,,5.4,HABW250523-028
+23-May-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,29.38,29.658,81.121,5.263,,,,,,,5.4,HABW250523-028
+23-May-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Dinophysis caudata,333,,29.38,29.658,81.121,5.263,,,,,,,5.4,HABW250523-028
+23-May-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Prorocentrum micans,1000,,29.38,29.658,81.121,5.263,,,,,,,5.4,HABW250523-028
+23-May-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,2000,,29.38,29.658,81.121,5.263,,,,,,,5.4,HABW250523-028
+11-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.7,HABW250611-038
+11-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.7,HABW250611-038
+11-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.7,HABW250611-038
+11-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum spp.,3333,,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.7,HABW250611-038
+11-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,96667,,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.7,HABW250611-038
+11-Jun-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.7,HABW250611-039
+11-Jun-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.7,HABW250611-039
+11-Jun-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.7,HABW250611-039
+11-Jun-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Dinophysis caudata,333,,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.7,HABW250611-039
+11-Jun-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,62667,,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.7,HABW250611-039
+11-Jun-25,2.7,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum sp.,,present,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.7,HABW250611-039
+11-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.7,HABW250611-040
+11-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.7,HABW250611-040
+11-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.7,HABW250611-040
+11-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Tripos fusus,333,,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.7,HABW250611-040
+11-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Dinophysis caudata,667,,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.7,HABW250611-040
+11-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Tripos hircus,,present,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.7,HABW250611-040
+11-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Prorocentrum micans,,present,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.7,HABW250611-040
+11-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Guinardia delicatula,,present,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.7,HABW250611-040
+11-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Sundstroemia pungens,,present,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.7,HABW250611-040
+11-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,30.57,26.746,102.183,6.573,8,,2.175,,,,2.6,HABW250611-041
+11-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,30.57,26.746,102.183,6.573,8,,2.175,,,,2.6,HABW250611-041
+11-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,30.57,26.746,102.183,6.573,8,,2.175,,,,2.6,HABW250611-041
+11-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Dinophysis caudata,667,,30.57,26.746,102.183,6.573,8,,2.175,,,,2.6,HABW250611-041
+11-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Guinardia delicatula,,present,30.57,26.746,102.183,6.573,8,,2.175,,,,2.6,HABW250611-041
+11-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Sundstroemia pungens,,present,30.57,26.746,102.183,6.573,8,,2.175,,,,2.6,HABW250611-041
+11-Jun-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,30.11,28.113,92.561,5.984,7.943,,1.306,,,,3.2,HABW250611-042
+11-Jun-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,0,,30.11,28.113,92.561,5.984,7.943,,1.306,,,,3.2,HABW250611-042
+11-Jun-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,30.11,28.113,92.561,5.984,7.943,,1.306,,,,3.2,HABW250611-042
+11-Jun-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Tripos hircus,333,,30.11,28.113,92.561,5.984,7.943,,1.306,,,,3.2,HABW250611-042
+11-Jun-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Prorocentrum micans,333,,30.11,28.113,92.561,5.984,7.943,,1.306,,,,3.2,HABW250611-042
+11-Jun-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,30.94,27.308,106.237,6.808,8.018,,1.975,,,,4.9,HABW250611-043
+11-Jun-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,30.94,27.308,106.237,6.808,8.018,,1.975,,,,4.9,HABW250611-043
+11-Jun-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,30.94,27.308,106.237,6.808,8.018,,1.975,,,,4.9,HABW250611-043
+11-Jun-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Tripos hircus,333,,30.94,27.308,106.237,6.808,8.018,,1.975,,,,4.9,HABW250611-043
+11-Jun-25,4.9,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,30.46,27.385,94.253,6.084,7.976,,3.582,,,,4.9,HABW250611-044
+11-Jun-25,4.9,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,30.46,27.385,94.253,6.084,7.976,,3.582,,,,4.9,HABW250611-044
+11-Jun-25,4.9,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,30.46,27.385,94.253,6.084,7.976,,3.582,,,,4.9,HABW250611-044
+11-Jun-25,4.9,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Prorocentrum sp.,333,,30.46,27.385,94.253,6.084,7.976,,3.582,,,,4.9,HABW250611-044
+11-Jun-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,29.81,27.009,87.574,5.725,7.952,,3.875,,,,4,HABW250611-045
+11-Jun-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,29.81,27.009,87.574,5.725,7.952,,3.875,,,,4,HABW250611-045
+11-Jun-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,29.81,27.009,87.574,5.725,7.952,,3.875,,,,4,HABW250611-045
+11-Jun-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Dinophysis caudata,1000,,29.81,27.009,87.574,5.725,7.952,,3.875,,,,4,HABW250611-045
+11-Jun-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,,present,29.81,27.009,87.574,5.725,7.952,,3.875,,,,4,HABW250611-045
+11-Jun-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,29.47,27.033,70.208,4.614,7.91,,3.182,,,,4,HABW250611-046
+11-Jun-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,29.47,27.033,70.208,4.614,7.91,,3.182,,,,4,HABW250611-046
+11-Jun-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,29.47,27.033,70.208,4.614,7.91,,3.182,,,,4,HABW250611-046
+11-Jun-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,29.24,27.658,83.094,5.463,7.966,,4.028,,,,2.8,HABW250611-047
+11-Jun-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,29.24,27.658,83.094,5.463,7.966,,4.028,,,,2.8,HABW250611-047
+11-Jun-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,29.24,27.658,83.094,5.463,7.966,,4.028,,,,2.8,HABW250611-047
+11-Jun-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Detritus,,present,29.24,27.658,83.094,5.463,7.966,,4.028,,,,2.8,HABW250611-047
+11-Jun-25,2.8,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,29.22,27.668,81.604,5.366,7.961,,3.843,,,,2.8,HABW250611-048
+11-Jun-25,2.8,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,29.22,27.668,81.604,5.366,7.961,,3.843,,,,2.8,HABW250611-048
+11-Jun-25,2.8,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,29.22,27.668,81.604,5.366,7.961,,3.843,,,,2.8,HABW250611-048
+11-Jun-25,2.8,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Prorocentrum sp.,1000,,29.22,27.668,81.604,5.366,7.961,,3.843,,,,2.8,HABW250611-048
+11-Jun-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,30.25,28.364,94.079,6.06,7.943,,1.499,,,,3.6,HABW250611-049
+11-Jun-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,30.25,28.364,94.079,6.06,7.943,,1.499,,,,3.6,HABW250611-049
+11-Jun-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,1667,,30.25,28.364,94.079,6.06,7.943,,1.499,,,,3.6,HABW250611-049
+11-Jun-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,30.35,28.877,94.176,6.04,8.01,,1.92,,,,10.3,HABW250611-050
+11-Jun-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,30.35,28.877,94.176,6.04,8.01,,1.92,,,,10.3,HABW250611-050
+11-Jun-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Dinophysis sp.,333,,30.35,28.877,94.176,6.04,8.01,,1.92,,,,10.3,HABW250611-050
+11-Jun-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Tripos hircus,667,,30.35,28.877,94.176,6.04,8.01,,1.92,,,,10.3,HABW250611-050
+11-Jun-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,11000,,30.35,28.877,94.176,6.04,8.01,,1.92,,,,10.3,HABW250611-050
+11-Jun-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,29.2,29.936,89.605,5.821,8.03,,1.776,,,,5.6,HABW250611-051
+11-Jun-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,29.2,29.936,89.605,5.821,8.03,,1.776,,,,5.6,HABW250611-051
+11-Jun-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Prorocentrum spp.,1667,,29.2,29.936,89.605,5.821,8.03,,1.776,,,,5.6,HABW250611-051
+11-Jun-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,48333,,29.2,29.936,89.605,5.821,8.03,,1.776,,,,5.6,HABW250611-051
+11-Jun-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Ditylum spp.,,present,29.2,29.936,89.605,5.821,8.03,,1.776,,,,5.6,HABW250611-051
+19-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.6,HABW250619-045
+19-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.6,HABW250619-045
+19-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.6,HABW250619-045
+19-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoplankton,418201020,,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.6,HABW250619-045
+19-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,,present,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.6,HABW250619-045
+19-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Picoplankton,,present,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.6,HABW250619-045
+19-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanodiatoms,,present,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.6,HABW250619-045
+19-Jun-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoflagellates,,present,30.85,25.702,107.403,6.953,7.977,,7.078,,,,2.6,HABW250619-045
+19-Jun-25,2.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.6,HABW250619-046
+19-Jun-25,2.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.6,HABW250619-046
+19-Jun-25,2.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.6,HABW250619-046
+19-Jun-25,2.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoplankton,371734240,,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.6,HABW250619-046
+19-Jun-25,2.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,,present,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.6,HABW250619-046
+19-Jun-25,2.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Picoplankton,,present,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.6,HABW250619-046
+19-Jun-25,2.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum micans,,present,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.6,HABW250619-046
+19-Jun-25,2.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanodiatoms,,present,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.6,HABW250619-046
+19-Jun-25,2.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoflagellates,,present,30.17,25.817,89.139,5.831,7.95,,5.604,,,,2.6,HABW250619-046
+19-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.6,HABW250619-047
+19-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.6,HABW250619-047
+19-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.6,HABW250619-047
+19-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Dactyliosolen fragilissimus,,present,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.6,HABW250619-047
+19-Jun-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Nanoplankton,,present,30.57,26.746,103.368,6.683,7.995,,2.377,,,,3.6,HABW250619-047
+19-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,30.71,27.26,102.183,6.573,8,,2.175,,,,2.7,HABW250619-048
+19-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,30.71,27.26,102.183,6.573,8,,2.175,,,,2.7,HABW250619-048
+19-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,30.71,27.26,102.183,6.573,8,,2.175,,,,2.7,HABW250619-048
+19-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Prorocentrum micans,333,,30.71,27.26,102.183,6.573,8,,2.175,,,,2.7,HABW250619-048
+19-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Prorocentrum sp.,333,,30.71,27.26,102.183,6.573,8,,2.175,,,,2.7,HABW250619-048
+19-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Tripos hircus,667,,30.71,27.26,102.183,6.573,8,,2.175,,,,2.7,HABW250619-048
+19-Jun-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Guinardia delicatula,,present,30.71,27.26,102.183,6.573,8,,2.175,,,,2.7,HABW250619-048
+19-Jun-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,30.11,28.113,92.561,5.984,7.943,,1.306,,,,3.3,HABW250619-049
+19-Jun-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,0,,30.11,28.113,92.561,5.984,7.943,,1.306,,,,3.3,HABW250619-049
+19-Jun-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,30.11,28.113,92.561,5.984,7.943,,1.306,,,,3.3,HABW250619-049
+19-Jun-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Guinardia spp.,,present,30.11,28.113,92.561,5.984,7.943,,1.306,,,,3.3,HABW250619-049
+19-Jun-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,30.94,27.308,106.237,6.808,8.018,,1.975,,,,5,HABW250619-050
+19-Jun-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,30.94,27.308,106.237,6.808,8.018,,1.975,,,,5,HABW250619-050
+19-Jun-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,30.94,27.308,106.237,6.808,8.018,,1.975,,,,5,HABW250619-050
+19-Jun-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Guinardia delicatula,366278,,30.94,27.308,106.237,6.808,8.018,,1.975,,,,5,HABW250619-050
+19-Jun-25,5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,30.46,27.385,94.253,6.084,7.976,,3.582,,,,5,HABW250619-051
+19-Jun-25,5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,30.46,27.385,94.253,6.084,7.976,,3.582,,,,5,HABW250619-051
+19-Jun-25,5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,30.46,27.385,94.253,6.084,7.976,,3.582,,,,5,HABW250619-051
+19-Jun-25,5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Guinardia delicatula,508933,,30.46,27.385,94.253,6.084,7.976,,3.582,,,,5,HABW250619-051
+19-Jun-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,29.81,27.009,87.574,5.725,7.952,,3.875,,,,4.2,HABW250619-052
+19-Jun-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,29.81,27.009,87.574,5.725,7.952,,3.875,,,,4.2,HABW250619-052
+19-Jun-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,29.81,27.009,87.574,5.725,7.952,,3.875,,,,4.2,HABW250619-052
+19-Jun-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,,present,29.81,27.009,87.574,5.725,7.952,,3.875,,,,4.2,HABW250619-052
+19-Jun-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,29.47,27.033,70.208,4.614,7.91,,3.182,,,,4.2,HABW250619-053
+19-Jun-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,29.47,27.033,70.208,4.614,7.91,,3.182,,,,4.2,HABW250619-053
+19-Jun-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,29.47,27.033,70.208,4.614,7.91,,3.182,,,,4.2,HABW250619-053
+19-Jun-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,,present,29.47,27.033,70.208,4.614,7.91,,3.182,,,,4.2,HABW250619-053
+19-Jun-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,29.24,27.658,83.094,5.463,7.966,,4.028,,,,3,HABW250619-054
+19-Jun-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,29.24,27.658,83.094,5.463,7.966,,4.028,,,,3,HABW250619-054
+19-Jun-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,29.24,27.658,83.094,5.463,7.966,,4.028,,,,3,HABW250619-054
+19-Jun-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Guinardia spp.,,present,29.24,27.658,83.094,5.463,7.966,,4.028,,,,3,HABW250619-054
+19-Jun-25,2.7,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,29.22,27.668,81.604,5.366,7.961,,3.843,,,,3,HABW250619-055
+19-Jun-25,2.7,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,29.22,27.668,81.604,5.366,7.961,,3.843,,,,3,HABW250619-055
+19-Jun-25,2.7,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,29.22,27.668,81.604,5.366,7.961,,3.843,,,,3,HABW250619-055
+19-Jun-25,2.7,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Guinardia delicatula,,present,29.22,27.668,81.604,5.366,7.961,,3.843,,,,3,HABW250619-055
+19-Jun-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,30.25,28.364,94.079,6.06,7.943,,1.499,,,,3.8,HABW250619-056
+19-Jun-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,0,,30.25,28.364,94.079,6.06,7.943,,1.499,,,,3.8,HABW250619-056
+19-Jun-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,30.25,28.364,94.079,6.06,7.943,,1.499,,,,3.8,HABW250619-056
+19-Jun-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Coscinodiscus spp.,,present,30.25,28.364,94.079,6.06,7.943,,1.499,,,,3.8,HABW250619-056
+19-Jun-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,30.35,28.877,94.176,6.04,8.01,,1.92,,,,11.2,HABW250619-057
+19-Jun-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,0,,30.35,28.877,94.176,6.04,8.01,,1.92,,,,11.2,HABW250619-057
+19-Jun-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,30.35,28.877,94.176,6.04,8.01,,1.92,,,,11.2,HABW250619-057
+19-Jun-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Prorocentrum micans,,present,30.35,28.877,94.176,6.04,8.01,,1.92,,,,11.2,HABW250619-057
+19-Jun-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Coscinodiscus spp.,,present,30.35,28.877,94.176,6.04,8.01,,1.92,,,,11.2,HABW250619-057
+19-Jun-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,29.2,29.936,89.605,5.821,8.03,,1.776,,,,5.6,HABW250619-058
+19-Jun-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,0,,29.2,29.936,89.605,5.821,8.03,,1.776,,,,5.6,HABW250619-058
+19-Jun-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,29.2,29.936,89.605,5.821,8.03,,1.776,,,,5.6,HABW250619-058
+19-Jun-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Guinardia spp.,,present,29.2,29.936,89.605,5.821,8.03,,1.776,,,,5.6,HABW250619-058
+01-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,29.85,23.703,121.579,8.088,8.016,,6.942,,,,2.4,HABW250701-047
+01-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,29.85,23.703,121.579,8.088,8.016,,6.942,,,,2.4,HABW250701-047
+01-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,29.85,23.703,121.579,8.088,8.016,,6.942,,,,2.4,HABW250701-047
+01-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum micans,1000,,29.85,23.703,121.579,8.088,8.016,,6.942,,,,2.4,HABW250701-047
+01-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,28667,,29.85,23.703,121.579,8.088,8.016,,6.942,,,,2.4,HABW250701-047
+01-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoflagellates,28580213,,29.85,23.703,121.579,8.088,8.016,,6.942,,,,2.4,HABW250701-047
+01-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanodiatoms,71450533,,29.85,23.703,121.579,8.088,8.016,,6.942,,,,2.4,HABW250701-047
+01-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoplankton,369161089,,29.85,23.703,121.579,8.088,8.016,,6.942,,,,2.4,HABW250701-047
+01-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Picoplankton,,present,29.85,23.703,121.579,8.088,8.016,,6.942,,,,2.4,HABW250701-047
+01-Jul-25,2.4,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,29.3,23.244,74.243,4.992,7.932,,8.324,,,,2.4,HABW250701-048
+01-Jul-25,2.4,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,29.3,23.244,74.243,4.992,7.932,,8.324,,,,2.4,HABW250701-048
+01-Jul-25,2.4,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,29.3,23.244,74.243,4.992,7.932,,8.324,,,,2.4,HABW250701-048
+01-Jul-25,2.4,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum micans,1667,,29.3,23.244,74.243,4.992,7.932,,8.324,,,,2.4,HABW250701-048
+01-Jul-25,2.4,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,14000,,29.3,23.244,74.243,4.992,7.932,,8.324,,,,2.4,HABW250701-048
+01-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,29.26,25.219,103.316,6.882,8,,3.616,,,,3.4,HABW250701-049
+01-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,29.26,25.219,103.316,6.882,8,,3.616,,,,3.4,HABW250701-049
+01-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,29.26,25.219,103.316,6.882,8,,3.616,,,,3.4,HABW250701-049
+01-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Cyanobacteria unidentified,333,colonies/L,29.26,25.219,103.316,6.882,8,,3.616,,,,3.4,HABW250701-049
+01-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,30.01,26.38,112.411,7.35,7.981,,3.248,,,,2.5,HABW250701-050
+01-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,30.01,26.38,112.411,7.35,7.981,,3.248,,,,2.5,HABW250701-050
+01-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,667,,30.01,26.38,112.411,7.35,7.981,,3.248,,,,2.5,HABW250701-050
+01-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,29.42,26.723,93.875,6.185,7.903,,2.184,,,,3.3,HABW250701-051
+01-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,0,,29.42,26.723,93.875,6.185,7.903,,2.184,,,,3.3,HABW250701-051
+01-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,29.42,26.723,93.875,6.185,7.903,,2.184,,,,3.3,HABW250701-051
+01-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,29.39,26.147,97.975,6.479,7.946,,3.373,,,,4.9,HABW250701-052
+01-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,29.39,26.147,97.975,6.479,7.946,,3.373,,,,4.9,HABW250701-052
+01-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,29.39,26.147,97.975,6.479,7.946,,3.373,,,,4.9,HABW250701-052
+01-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoflagellates,14290107,,29.39,26.147,97.975,6.479,7.946,,3.373,,,,4.9,HABW250701-052
+01-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanodiatoms,19053476,,29.39,26.147,97.975,6.479,7.946,,3.373,,,,4.9,HABW250701-052
+01-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoplankton,241740971,,29.39,26.147,97.975,6.479,7.946,,3.373,,,,4.9,HABW250701-052
+01-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Picoplankton,,present,29.39,26.147,97.975,6.479,7.946,,3.373,,,,4.9,HABW250701-052
+01-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,29.19,26.278,86.459,5.733,7.889,,4.022,,,,4.9,HABW250701-053
+01-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,29.19,26.278,86.459,5.733,7.889,,4.022,,,,4.9,HABW250701-053
+01-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,29.19,26.278,86.459,5.733,7.889,,4.022,,,,4.9,HABW250701-053
+01-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,29.29,25.684,98.062,6.512,8.013,,5.448,,,,4,HABW250701-054
+01-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,29.29,25.684,98.062,6.512,8.013,,5.448,,,,4,HABW250701-054
+01-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,29.29,25.684,98.062,6.512,8.013,,5.448,,,,4,HABW250701-054
+01-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,2667,,29.29,25.684,98.062,6.512,8.013,,5.448,,,,4,HABW250701-054
+01-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoflagellates,16671791,,29.29,25.684,98.062,6.512,8.013,,5.448,,,,4,HABW250701-054
+01-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanodiatoms,65496322,,29.29,25.684,98.062,6.512,8.013,,5.448,,,,4,HABW250701-054
+01-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoplankton,272702869,,29.29,25.684,98.062,6.512,8.013,,5.448,,,,4,HABW250701-054
+01-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Picoflagellates,,present,29.29,25.684,98.062,6.512,8.013,,5.448,,,,4,HABW250701-054
+01-Jul-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,28.9,25.693,72.219,4.827,7.965,,7.675,,,,4,HABW250701-055
+01-Jul-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,28.9,25.693,72.219,4.827,7.965,,7.675,,,,4,HABW250701-055
+01-Jul-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,28.9,25.693,72.219,4.827,7.965,,7.675,,,,4,HABW250701-055
+01-Jul-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,2000,,28.9,25.693,72.219,4.827,7.965,,7.675,,,,4,HABW250701-055
+01-Jul-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoflagellates,21435160,,28.9,25.693,72.219,4.827,7.965,,7.675,,,,4,HABW250701-055
+01-Jul-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanodiatoms,52397058,,28.9,25.693,72.219,4.827,7.965,,7.675,,,,4,HABW250701-055
+01-Jul-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoplankton,245313498,,28.9,25.693,72.219,4.827,7.965,,7.675,,,,4,HABW250701-055
+01-Jul-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Picoplankton,,present,28.9,25.693,72.219,4.827,7.965,,7.675,,,,4,HABW250701-055
+01-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,28.88,27.11,93.938,6.231,7.916,,4.814,,,,2.9,HABW250701-056
+01-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,28.88,27.11,93.938,6.231,7.916,,4.814,,,,2.9,HABW250701-056
+01-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,28.88,27.11,93.938,6.231,7.916,,4.814,,,,2.9,HABW250701-056
+01-Jul-25,2.9,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,28.82,27.11,89.324,5.932,7.906,,4.801,,,,2.9,HABW250701-057
+01-Jul-25,2.9,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,28.82,27.11,89.324,5.932,7.906,,4.801,,,,2.9,HABW250701-057
+01-Jul-25,2.9,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,28.82,27.11,89.324,5.932,7.906,,4.801,,,,2.9,HABW250701-057
+01-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,29.48,27.399,90.671,5.946,7.882,,2.2,,,,3.8,HABW250701-058
+01-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,0,,29.48,27.399,90.671,5.946,7.882,,2.2,,,,3.8,HABW250701-058
+01-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,29.48,27.399,90.671,5.946,7.882,,2.2,,,,3.8,HABW250701-058
+01-Jul-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,29.42,27.946,87.658,5.737,7.935,,0.646,,,,10.7,HABW250701-059
+01-Jul-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,0,,29.42,27.946,87.658,5.737,7.935,,0.646,,,,10.7,HABW250701-059
+01-Jul-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,29.42,27.946,87.658,5.737,7.935,,0.646,,,,10.7,HABW250701-059
+01-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,29.17,28.72,79.189,5.181,7.9,,1.977,,,,5.7,HABW250701-060
+01-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,0,,29.17,28.72,79.189,5.181,7.9,,1.977,,,,5.7,HABW250701-060
+01-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,29.17,28.72,79.189,5.181,7.9,,1.977,,,,5.7,HABW250701-060
+18-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,31.53,21.539,119.009,7.795,8.039,,3.197,,,,2.6,HABW250718-034
+18-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,31.53,21.539,119.009,7.795,8.039,,3.197,,,,2.6,HABW250718-034
+18-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,31.53,21.539,119.009,7.795,8.039,,3.197,,,,2.6,HABW250718-034
+18-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum micans,2333,,31.53,21.539,119.009,7.795,8.039,,3.197,,,,2.6,HABW250718-034
+18-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,12667,,31.53,21.539,119.009,7.795,8.039,,3.197,,,,2.6,HABW250718-034
+18-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum cordatum,,present,31.53,21.539,119.009,7.795,8.039,,3.197,,,,2.6,HABW250718-034
+18-Jul-25,2.6,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,30.93,22.393,32.234,2.122,7.939,,4.607,,,,2.6,HABW250718-035
+18-Jul-25,2.6,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,30.93,22.393,32.234,2.122,7.939,,4.607,,,,2.6,HABW250718-035
+18-Jul-25,2.6,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,30.93,22.393,32.234,2.122,7.939,,4.607,,,,2.6,HABW250718-035
+18-Jul-25,2.6,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,,present,30.93,22.393,32.234,2.122,7.939,,4.607,,,,2.6,HABW250718-035
+18-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,30.6,23.872,108.949,7.153,8.028,,2.278,,,,3.5,HABW250718-036
+18-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,30.6,23.872,108.949,7.153,8.028,,2.278,,,,3.5,HABW250718-036
+18-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,30.6,23.872,108.949,7.153,8.028,,2.278,,,,3.5,HABW250718-036
+18-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Tripos hircus,,present,30.6,23.872,108.949,7.153,8.028,,2.278,,,,3.5,HABW250718-036
+18-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Nanoplankton,,present,30.6,23.872,108.949,7.153,8.028,,2.278,,,,3.5,HABW250718-036
+18-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,30.88,25.324,110.154,7.142,8.018,,2.388,,,,2.6,HABW250718-037
+18-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,30.88,25.324,110.154,7.142,8.018,,2.388,,,,2.6,HABW250718-037
+18-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,30.88,25.324,110.154,7.142,8.018,,2.388,,,,2.6,HABW250718-037
+18-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Nanoplankton,,present,30.88,25.324,110.154,7.142,8.018,,2.388,,,,2.6,HABW250718-037
+18-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,30.67,26.15,97.222,6.296,7.933,,1.883,,,,3.5,HABW250718-038
+18-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,0,,30.67,26.15,97.222,6.296,7.933,,1.883,,,,3.5,HABW250718-038
+18-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,30.67,26.15,97.222,6.296,7.933,,1.883,,,,3.5,HABW250718-038
+18-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Coscinodiscus spp.,,present,30.67,26.15,97.222,6.296,7.933,,1.883,,,,3.5,HABW250718-038
+18-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Nanoplankton,,present,30.67,26.15,97.222,6.296,7.933,,1.883,,,,3.5,HABW250718-038
+18-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,30.63,25.16,101.446,6.61,8,,3.127,,,,4.9,HABW250718-039
+18-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,30.63,25.16,101.446,6.61,8,,3.127,,,,4.9,HABW250718-039
+18-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,30.63,25.16,101.446,6.61,8,,3.127,,,,4.9,HABW250718-039
+18-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Prorocentrum micans,333,,30.63,25.16,101.446,6.61,8,,3.127,,,,4.9,HABW250718-039
+18-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Tripos hircus,1000,,30.63,25.16,101.446,6.61,8,,3.127,,,,4.9,HABW250718-039
+18-Jul-25,4.9,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,30.39,25.291,95.964,6.273,7.963,,3.493,,,,4.9,HABW250718-040
+18-Jul-25,4.9,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,30.39,25.291,95.964,6.273,7.963,,3.493,,,,4.9,HABW250718-040
+18-Jul-25,4.9,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,30.39,25.291,95.964,6.273,7.963,,3.493,,,,4.9,HABW250718-040
+18-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,30.3,24.769,93.79,6.158,7.958,,1.397,,,,4.2,HABW250718-041
+18-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,30.3,24.769,93.79,6.158,7.958,,1.397,,,,4.2,HABW250718-041
+18-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,30.3,24.769,93.79,6.158,7.958,,1.397,,,,4.2,HABW250718-041
+18-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,6667,,30.3,24.769,93.79,6.158,7.958,,1.397,,,,4.2,HABW250718-041
+18-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,8333,,30.3,24.769,93.79,6.158,7.958,,1.397,,,,4.2,HABW250718-041
+18-Jul-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,30.2,24.882,54.978,3.613,7.908,,3.352,,,,4.2,HABW250718-042
+18-Jul-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,30.2,24.882,54.978,3.613,7.908,,3.352,,,,4.2,HABW250718-042
+18-Jul-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,30.2,24.882,54.978,3.613,7.908,,3.352,,,,4.2,HABW250718-042
+18-Jul-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,3000,,30.2,24.882,54.978,3.613,7.908,,3.352,,,,4.2,HABW250718-042
+18-Jul-25,4.2,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,8667,,30.2,24.882,54.978,3.613,7.908,,3.352,,,,4.2,HABW250718-042
+18-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,30.5,26.457,97.691,6.334,7.96,,3.023,,,,3.3,HABW250718-043
+18-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,30.5,26.457,97.691,6.334,7.96,,3.023,,,,3.3,HABW250718-043
+18-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,30.5,26.457,97.691,6.334,7.96,,3.023,,,,3.3,HABW250718-043
+18-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Tripos hircus,333,,30.5,26.457,97.691,6.334,7.96,,3.023,,,,3.3,HABW250718-043
+18-Jul-25,3.3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,30.46,26.511,98.032,6.358,7.949,,3.081,,,,3.3,HABW250718-044
+18-Jul-25,3.3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,30.46,26.511,98.032,6.358,7.949,,3.081,,,,3.3,HABW250718-044
+18-Jul-25,3.3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,30.46,26.511,98.032,6.358,7.949,,3.081,,,,3.3,HABW250718-044
+18-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,30.54,26.759,93.152,6.026,7.9,,1.625,,,,4,HABW250718-045
+18-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,0,,30.54,26.759,93.152,6.026,7.9,,1.625,,,,4,HABW250718-045
+18-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,30.54,26.759,93.152,6.026,7.9,,1.625,,,,4,HABW250718-045
+18-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Coscinodiscus spp.,,present,30.54,26.759,93.152,6.026,7.9,,1.625,,,,4,HABW250718-045
+18-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Nanoplankton,,present,30.54,26.759,93.152,6.026,7.9,,1.625,,,,4,HABW250718-045
+18-Jul-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,30.56,27.217,87.194,5.624,7.904,,2.978,,,,11.2,HABW250718-046
+18-Jul-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,30.56,27.217,87.194,5.624,7.904,,2.978,,,,11.2,HABW250718-046
+18-Jul-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,1000,,30.56,27.217,87.194,5.624,7.904,,2.978,,,,11.2,HABW250718-046
+18-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,30.2,28.5,96.941,6.246,7.904,,2.43,,,,5.7,HABW250718-047
+18-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,30.2,28.5,96.941,6.246,7.904,,2.43,,,,5.7,HABW250718-047
+18-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,23333,,30.2,28.5,96.941,6.246,7.904,,2.43,,,,5.7,HABW250718-047
+18-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Diatom unidentified,,present,30.2,28.5,96.941,6.246,7.904,,2.43,,,,5.7,HABW250718-047
+31-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,33.08,22.273,116.319,7.402,8.072,,2.738,,,,2.2,HABW250731-046
+31-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,33.08,22.273,116.319,7.402,8.072,,2.738,,,,2.2,HABW250731-046
+31-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,33.08,22.273,116.319,7.402,8.072,,2.738,,,,2.2,HABW250731-046
+31-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoflagellates,25007687,,33.08,22.273,116.319,7.402,8.072,,2.738,,,,2.2,HABW250731-046
+31-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoplankton,327481611,,33.08,22.273,116.319,7.402,8.072,,2.738,,,,2.2,HABW250731-046
+31-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Picoplankton,1486171093,,33.08,22.273,116.319,7.402,8.072,,2.738,,,,2.2,HABW250731-046
+31-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,,present,33.08,22.273,116.319,7.402,8.072,,2.738,,,,2.2,HABW250731-046
+31-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Heterocapsa spp.,,present,33.08,22.273,116.319,7.402,8.072,,2.738,,,,2.2,HABW250731-046
+31-Jul-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Coscinodiscus spp.,,present,33.08,22.273,116.319,7.402,8.072,,2.738,,,,2.2,HABW250731-046
+31-Jul-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,32.78,23.429,39.14,2.487,8.003,,8.309,,,,2.2,HABW250731-047
+31-Jul-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,32.78,23.429,39.14,2.487,8.003,,8.309,,,,2.2,HABW250731-047
+31-Jul-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,32.78,23.429,39.14,2.487,8.003,,8.309,,,,2.2,HABW250731-047
+31-Jul-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,200489,,32.78,23.429,39.14,2.487,8.003,,8.309,,,,2.2,HABW250731-047
+31-Jul-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoflagellates,33343582,,32.78,23.429,39.14,2.487,8.003,,8.309,,,,2.2,HABW250731-047
+31-Jul-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoplankton,312000662,,32.78,23.429,39.14,2.487,8.003,,8.309,,,,2.2,HABW250731-047
+31-Jul-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Picoplankton,1657652373,,32.78,23.429,39.14,2.487,8.003,,8.309,,,,2.2,HABW250731-047
+31-Jul-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum micans,,present,32.78,23.429,39.14,2.487,8.003,,8.309,,,,2.2,HABW250731-047
+31-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,32.73,23.92,105.266,6.676,8.026,,3.231,,,,3.2,HABW250731-048
+31-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,32.73,23.92,105.266,6.676,8.026,,3.231,,,,3.2,HABW250731-048
+31-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,32.73,23.92,105.266,6.676,8.026,,3.231,,,,3.2,HABW250731-048
+31-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Nanoflagellates,21435160,,32.73,23.92,105.266,6.676,8.026,,3.231,,,,3.2,HABW250731-048
+31-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Nanoplankton,272702869,,32.73,23.92,105.266,6.676,8.026,,3.231,,,,3.2,HABW250731-048
+31-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Tripos hircus,,present,32.73,23.92,105.266,6.676,8.026,,3.231,,,,3.2,HABW250731-048
+31-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Prorocentrum micans,,present,32.73,23.92,105.266,6.676,8.026,,3.231,,,,3.2,HABW250731-048
+31-Jul-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Heterocapsa spp.,,present,32.73,23.92,105.266,6.676,8.026,,3.231,,,,3.2,HABW250731-048
+31-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,32.59,24.17,106.887,6.785,8.073,,2.924,,,,2.4,HABW250731-049
+31-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,32.59,24.17,106.887,6.785,8.073,,2.924,,,,2.4,HABW250731-049
+31-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,32.59,24.17,106.887,6.785,8.073,,2.924,,,,2.4,HABW250731-049
+31-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Nanoflagellates,13099264,,32.59,24.17,106.887,6.785,8.073,,2.924,,,,2.4,HABW250731-049
+31-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Nanoplankton,390596249,,32.59,24.17,106.887,6.785,8.073,,2.924,,,,2.4,HABW250731-049
+31-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Picoplankton,1281346231,,32.59,24.17,106.887,6.785,8.073,,2.924,,,,2.4,HABW250731-049
+31-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Mesodinium rubrum,,present,32.59,24.17,106.887,6.785,8.073,,2.924,,,,2.4,HABW250731-049
+31-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Heterocapsa spp.,,present,32.59,24.17,106.887,6.785,8.073,,2.924,,,,2.4,HABW250731-049
+31-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Coscinodiscus spp.,,present,32.59,24.17,106.887,6.785,8.073,,2.924,,,,2.4,HABW250731-049
+31-Jul-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Strombidium-like,,present,32.59,24.17,106.887,6.785,8.073,,2.924,,,,2.4,HABW250731-049
+31-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,32.46,25.404,102.689,6.488,8.076,,2.057,,,,3.2,HABW250731-050
+31-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,0,,32.46,25.404,102.689,6.488,8.076,,2.057,,,,3.2,HABW250731-050
+31-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,32.46,25.404,102.689,6.488,8.076,,2.057,,,,3.2,HABW250731-050
+31-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Nanoflagellates,11908422,,32.46,25.404,102.689,6.488,8.076,,2.057,,,,3.2,HABW250731-050
+31-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Nanoplankton,290565502,,32.46,25.404,102.689,6.488,8.076,,2.057,,,,3.2,HABW250731-050
+31-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Picoplankton,1075330527,,32.46,25.404,102.689,6.488,8.076,,2.057,,,,3.2,HABW250731-050
+31-Jul-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Coscinodiscus spp.,,present,32.46,25.404,102.689,6.488,8.076,,2.057,,,,3.2,HABW250731-050
+31-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,32.52,24.708,95.413,6.046,8.044,,3.048,,,,4.7,HABW250731-051
+31-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,32.52,24.708,95.413,6.046,8.044,,3.048,,,,4.7,HABW250731-051
+31-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,32.52,24.708,95.413,6.046,8.044,,3.048,,,,4.7,HABW250731-051
+31-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoplankton,269130342,,32.52,24.708,95.413,6.046,8.044,,3.048,,,,4.7,HABW250731-051
+31-Jul-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Coscinodiscus spp.,,present,32.52,24.708,95.413,6.046,8.044,,3.048,,,,4.7,HABW250731-051
+31-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,32.36,24.889,90.203,5.725,7.996,,3.734,,,,4.7,HABW250731-052
+31-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,32.36,24.889,90.203,5.725,7.996,,3.734,,,,4.7,HABW250731-052
+31-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,32.36,24.889,90.203,5.725,7.996,,3.734,,,,4.7,HABW250731-052
+31-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoflagellates,15480949,,32.36,24.889,90.203,5.725,7.996,,3.734,,,,4.7,HABW250731-052
+31-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoplankton,267939500,,32.36,24.889,90.203,5.725,7.996,,3.734,,,,4.7,HABW250731-052
+31-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Picoplankton,947910409,,32.36,24.889,90.203,5.725,7.996,,3.734,,,,4.7,HABW250731-052
+31-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Coscinodiscus spp.,,present,32.36,24.889,90.203,5.725,7.996,,3.734,,,,4.7,HABW250731-052
+31-Jul-25,4.7,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Strombidium-like,,present,32.36,24.889,90.203,5.725,7.996,,3.734,,,,4.7,HABW250731-052
+31-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,32.36,24.038,98.335,6.27,8.073,,4.021,,,,3.9,HABW250731-053
+31-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,32.36,24.038,98.335,6.27,8.073,,4.021,,,,3.9,HABW250731-053
+31-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,32.36,24.038,98.335,6.27,8.073,,4.021,,,,3.9,HABW250731-053
+31-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoflagellates,25007687,,32.36,24.038,98.335,6.27,8.073,,4.021,,,,3.9,HABW250731-053
+31-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoplankton,285802133,,32.36,24.038,98.335,6.27,8.073,,4.021,,,,3.9,HABW250731-053
+31-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Picoplankton,1407575507,,32.36,24.038,98.335,6.27,8.073,,4.021,,,,3.9,HABW250731-053
+31-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,,present,32.36,24.038,98.335,6.27,8.073,,4.021,,,,3.9,HABW250731-053
+31-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,,present,32.36,24.038,98.335,6.27,8.073,,4.021,,,,3.9,HABW250731-053
+31-Jul-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Heterocapsa spp.,,present,32.36,24.038,98.335,6.27,8.073,,4.021,,,,3.9,HABW250731-053
+31-Jul-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,32.36,24.659,42.206,2.682,7.968,,4.187,,,,3.9,HABW250731-054
+31-Jul-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,32.36,24.659,42.206,2.682,7.968,,4.187,,,,3.9,HABW250731-054
+31-Jul-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,32.36,24.659,42.206,2.682,7.968,,4.187,,,,3.9,HABW250731-054
+31-Jul-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoflagellates,23816844,,32.36,24.659,42.206,2.682,7.968,,4.187,,,,3.9,HABW250731-054
+31-Jul-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoplankton,178626333,,32.36,24.659,42.206,2.682,7.968,,4.187,,,,3.9,HABW250731-054
+31-Jul-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Picoplankton,948528724,,32.36,24.659,42.206,2.682,7.968,,4.187,,,,3.9,HABW250731-054
+31-Jul-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,,present,32.36,24.659,42.206,2.682,7.968,,4.187,,,,3.9,HABW250731-054
+31-Jul-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,,present,32.36,24.659,42.206,2.682,7.968,,4.187,,,,3.9,HABW250731-054
+31-Jul-25,3.9,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Heterocapsa spp.,,present,32.36,24.659,42.206,2.682,7.968,,4.187,,,,3.9,HABW250731-054
+31-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,32.31,25.25,101.214,6.417,8.08,,2.403,,,,3,HABW250731-055
+31-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,32.31,25.25,101.214,6.417,8.08,,2.403,,,,3,HABW250731-055
+31-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,32.31,25.25,101.214,6.417,8.08,,2.403,,,,3,HABW250731-055
+31-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanoflagellates,10717580,,32.31,25.25,101.214,6.417,8.08,,2.403,,,,3,HABW250731-055
+31-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanoplankton,272702869,,32.31,25.25,101.214,6.417,8.08,,2.403,,,,3,HABW250731-055
+31-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Heterocapsa spp.,,present,32.31,25.25,101.214,6.417,8.08,,2.403,,,,3,HABW250731-055
+31-Jul-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Coscinodiscus spp.,,present,32.31,25.25,101.214,6.417,8.08,,2.403,,,,3,HABW250731-055
+31-Jul-25,3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,32.64,25.959,88.688,5.571,8.041,,3.44,,,,3,HABW250731-056
+31-Jul-25,3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,32.64,25.959,88.688,5.571,8.041,,3.44,,,,3,HABW250731-056
+31-Jul-25,3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,32.64,25.959,88.688,5.571,8.041,,3.44,,,,3,HABW250731-056
+31-Jul-25,3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanoflagellate Type PL,8335896,,32.64,25.959,88.688,5.571,8.041,,3.44,,,,3,HABW250731-056
+31-Jul-25,3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanoplankton,306046451,,32.64,25.959,88.688,5.571,8.041,,3.44,,,,3,HABW250731-056
+31-Jul-25,3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Picoplankton,885986613,,32.64,25.959,88.688,5.571,8.041,,3.44,,,,3,HABW250731-056
+31-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,32.39,26.352,96.526,6.075,8.008,,1.608,,,,3.8,HABW250731-057
+31-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,0,,32.39,26.352,96.526,6.075,8.008,,1.608,,,,3.8,HABW250731-057
+31-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,32.39,26.352,96.526,6.075,8.008,,1.608,,,,3.8,HABW250731-057
+31-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Nanoplankton,163145384,,32.39,26.352,96.526,6.075,8.008,,1.608,,,,3.8,HABW250731-057
+31-Jul-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Coscinodiscus spp.,,present,32.39,26.352,96.526,6.075,8.008,,1.608,,,,3.8,HABW250731-057
+31-Jul-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,32.47,26.89,88.552,5.55,7.989,,3.351,,,,11,HABW250731-058
+31-Jul-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,0,,32.47,26.89,88.552,5.55,7.989,,3.351,,,,11,HABW250731-058
+31-Jul-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,32.47,26.89,88.552,5.55,7.989,,3.351,,,,11,HABW250731-058
+31-Jul-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Nanoplankton,196488967,,32.47,26.89,88.552,5.55,7.989,,3.351,,,,11,HABW250731-058
+31-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,31.91,26.064,91.135,5.726,7.945,,2.315,,,,5.9,HABW250731-059
+31-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,0,,31.91,26.064,91.135,5.726,7.945,,2.315,,,,5.9,HABW250731-059
+31-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,31.91,26.064,91.135,5.726,7.945,,2.315,,,,5.9,HABW250731-059
+31-Jul-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Nanoplankton,37511530,,31.91,26.064,91.135,5.726,7.945,,2.315,,,,5.9,HABW250731-059
+13-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,31.05,18.143,130.049,8.745,8.203,,,,,,2.2,HABW250813-045
+13-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,31.05,18.143,130.049,8.745,8.203,,,,,,2.2,HABW250813-045
+13-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,31.05,18.143,130.049,8.745,8.203,,,,,,2.2,HABW250813-045
+13-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum spp.,3333,,31.05,18.143,130.049,8.745,8.203,,,,,,2.2,HABW250813-045
+13-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,588665,,31.05,18.143,130.049,8.745,8.203,,,,,,2.2,HABW250813-045
+13-Aug-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,31.11,21.624,12.554,0.828,8.076,,9.355,,,,2.2,HABW250813-046
+13-Aug-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,31.11,21.624,12.554,0.828,8.076,,9.355,,,,2.2,HABW250813-046
+13-Aug-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,31.11,21.624,12.554,0.828,8.076,,9.355,,,,2.2,HABW250813-046
+13-Aug-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,312138,,31.11,21.624,12.554,0.828,8.076,,9.355,,,,2.2,HABW250813-046
+13-Aug-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,30.92,22.242,112.472,7.412,8.127,,3.382,,,,3.2,HABW250813-047
+13-Aug-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,30.92,22.242,112.472,7.412,8.127,,3.382,,,,3.2,HABW250813-047
+13-Aug-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,30.92,22.242,112.472,7.412,8.127,,3.382,,,,3.2,HABW250813-047
+13-Aug-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Prorocentrum spp.,3000,,30.92,22.242,112.472,7.412,8.127,,3.382,,,,3.2,HABW250813-047
+13-Aug-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Tripos hircus,17333,,30.92,22.242,112.472,7.412,8.127,,3.382,,,,3.2,HABW250813-047
+13-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,30.72,24.49,105.128,6.865,8.088,,3.193,,,,2.2,HABW250813-048
+13-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,30.72,24.49,105.128,6.865,8.088,,3.193,,,,2.2,HABW250813-048
+13-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,30.72,24.49,105.128,6.865,8.088,,3.193,,,,2.2,HABW250813-048
+13-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Tripos hircus,1667,,30.72,24.49,105.128,6.865,8.088,,3.193,,,,2.2,HABW250813-048
+13-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Prorocentrum spp.,2000,,30.72,24.49,105.128,6.865,8.088,,3.193,,,,2.2,HABW250813-048
+13-Aug-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,30.84,25.234,103.966,6.748,8.112,,2.723,,,,3,HABW250813-049
+13-Aug-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,0,,30.84,25.234,103.966,6.748,8.112,,2.723,,,,3,HABW250813-049
+13-Aug-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,30.84,25.234,103.966,6.748,8.112,,2.723,,,,3,HABW250813-049
+13-Aug-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Diatom unidentified centric ,,present,30.84,25.234,103.966,6.748,8.112,,2.723,,,,3,HABW250813-049
+13-Aug-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Odontella spp.,,present,30.84,25.234,103.966,6.748,8.112,,2.723,,,,3,HABW250813-049
+13-Aug-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,30.69,24.281,95.611,6.254,8.045,,4.955,,,,4.5,HABW250813-050
+13-Aug-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,30.69,24.281,95.611,6.254,8.045,,4.955,,,,4.5,HABW250813-050
+13-Aug-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,30.69,24.281,95.611,6.254,8.045,,4.955,,,,4.5,HABW250813-050
+13-Aug-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Tripos hircus,,present,30.69,24.281,95.611,6.254,8.045,,4.955,,,,4.5,HABW250813-050
+13-Aug-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,30.72,24.359,91.426,5.975,8.013,,5.947,,,,4.5,HABW250813-051
+13-Aug-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,30.72,24.359,91.426,5.975,8.013,,5.947,,,,4.5,HABW250813-051
+13-Aug-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,30.72,24.359,91.426,5.975,8.013,,5.947,,,,4.5,HABW250813-051
+13-Aug-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Tripos hircus,8333,,30.72,24.359,91.426,5.975,8.013,,5.947,,,,4.5,HABW250813-051
+13-Aug-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,30.38,24.466,95.547,6.275,8.043,,6.398,,,,3.8,HABW250813-052
+13-Aug-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,30.38,24.466,95.547,6.275,8.043,,6.398,,,,3.8,HABW250813-052
+13-Aug-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,30.38,24.466,95.547,6.275,8.043,,6.398,,,,3.8,HABW250813-052
+13-Aug-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,,present,30.38,24.466,95.547,6.275,8.043,,6.398,,,,3.8,HABW250813-052
+13-Aug-25,3.8,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,30.19,24.536,69.272,4.562,8.005,,5.633,,,,3.87,HABW250813-053
+13-Aug-25,3.8,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,30.19,24.536,69.272,4.562,8.005,,5.633,,,,3.87,HABW250813-053
+13-Aug-25,3.8,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,30.19,24.536,69.272,4.562,8.005,,5.633,,,,3.87,HABW250813-053
+13-Aug-25,3.8,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,5667,,30.19,24.536,69.272,4.562,8.005,,5.633,,,,3.87,HABW250813-053
+13-Aug-25,3.8,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,7333,,30.19,24.536,69.272,4.562,8.005,,5.633,,,,3.87,HABW250813-053
+13-Aug-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,30.5,25.538,95.251,6.206,8.074,,2.406,,,,2.9,HABW250813-054
+13-Aug-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,30.5,25.538,95.251,6.206,8.074,,2.406,,,,2.9,HABW250813-054
+13-Aug-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,30.5,25.538,95.251,6.206,8.074,,2.406,,,,2.9,HABW250813-054
+13-Aug-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Tripos hircus,333,,30.5,25.538,95.251,6.206,8.074,,2.406,,,,2.9,HABW250813-054
+13-Aug-25,2.9,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,30.45,25.734,92.114,6,8.054,,2.541,,,,2.9,HABW250813-055
+13-Aug-25,2.9,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,30.45,25.734,92.114,6,8.054,,2.541,,,,2.9,HABW250813-055
+13-Aug-25,2.9,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,30.45,25.734,92.114,6,8.054,,2.541,,,,2.9,HABW250813-055
+13-Aug-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,30.72,25.693,96.696,6.273,8.08,,2.082,,,,3.6,HABW250813-056
+13-Aug-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,0,,30.72,25.693,96.696,6.273,8.08,,2.082,,,,3.6,HABW250813-056
+13-Aug-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,30.72,25.693,96.696,6.273,8.08,,2.082,,,,3.6,HABW250813-056
+13-Aug-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,31.02,26.517,96.41,6.196,8.102,,3.102,,,,10.9,HABW250813-057
+13-Aug-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,0,,31.02,26.517,96.41,6.196,8.102,,3.102,,,,10.9,HABW250813-057
+13-Aug-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,31.02,26.517,96.41,6.196,8.102,,3.102,,,,10.9,HABW250813-057
+13-Aug-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,30.43,27.66,90.441,5.832,7.787,,2.586,,,,5.7,HABW250813-058
+13-Aug-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,0,,30.43,27.66,90.441,5.832,7.787,,2.586,,,,5.7,HABW250813-058
+13-Aug-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,30.43,27.66,90.441,5.832,7.787,,2.586,,,,5.7,HABW250813-058
+29-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,30.65,20.325,41.192,2.755,7.91,,11.68,,,,2.2,HABW250829-045
+29-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,30.65,20.325,41.192,2.755,7.91,,11.68,,,,2.2,HABW250829-045
+29-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,30.65,20.325,41.192,2.755,7.91,,11.68,,,,2.2,HABW250829-045
+29-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum micans,5000,,30.65,20.325,41.192,2.755,7.91,,11.68,,,,2.2,HABW250829-045
+29-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum cordatum,7667,,30.65,20.325,41.192,2.755,7.91,,11.68,,,,2.2,HABW250829-045
+29-Aug-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,984981,,30.65,20.325,41.192,2.755,7.91,,11.68,,,,2.2,HABW250829-045
+29-Aug-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,29.67,22.889,6.451,0.432,7.764,,11.474,,,,2.2,HABW250829-046
+29-Aug-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,29.67,22.889,6.451,0.432,7.764,,11.474,,,,2.2,HABW250829-046
+29-Aug-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,29.67,22.889,6.451,0.432,7.764,,11.474,,,,2.2,HABW250829-046
+29-Aug-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum spp.,2333,,29.67,22.889,6.451,0.432,7.764,,11.474,,,,2.2,HABW250829-046
+29-Aug-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,1030353,,29.67,22.889,6.451,0.432,7.764,,11.474,,,,2.2,HABW250829-046
+29-Aug-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,29.94,21.259,101.482,6.832,8.102,,1.854,,,,3.4,HABW250829-047
+29-Aug-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,29.94,21.259,101.482,6.832,8.102,,1.854,,,,3.4,HABW250829-047
+29-Aug-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,29.94,21.259,101.482,6.832,8.102,,1.854,,,,3.4,HABW250829-047
+29-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,30.53,22.172,105.488,6.999,8.075,,1.957,,,,2.4,HABW250829-048
+29-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,30.53,22.172,105.488,6.999,8.075,,1.957,,,,2.4,HABW250829-048
+29-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,30.53,22.172,105.488,6.999,8.075,,1.957,,,,2.4,HABW250829-048
+29-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Sundstroemia pungens,,present,30.53,22.172,105.488,6.999,8.075,,1.957,,,,2.4,HABW250829-048
+29-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Skeletonema spp.,,present,30.53,22.172,105.488,6.999,8.075,,1.957,,,,2.4,HABW250829-048
+29-Aug-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Odontella spp.,,present,30.53,22.172,105.488,6.999,8.075,,1.957,,,,2.4,HABW250829-048
+29-Aug-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,29.93,23.431,130.427,8.678,8.248,,1.118,,,,3.2,HABW250829-049
+29-Aug-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,0,,29.93,23.431,130.427,8.678,8.248,,1.118,,,,3.2,HABW250829-049
+29-Aug-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,29.93,23.431,130.427,8.678,8.248,,1.118,,,,3.2,HABW250829-049
+29-Aug-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Sundstroemia pungens,,present,29.93,23.431,130.427,8.678,8.248,,1.118,,,,3.2,HABW250829-049
+29-Aug-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Skeletonema spp.,,present,29.93,23.431,130.427,8.678,8.248,,1.118,,,,3.2,HABW250829-049
+29-Aug-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,29.98,22.324,118.556,7.93,8.175,,1.113,,,,4.8,HABW250829-050
+29-Aug-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,29.98,22.324,118.556,7.93,8.175,,1.113,,,,4.8,HABW250829-050
+29-Aug-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,29.98,22.324,118.556,7.93,8.175,,1.113,,,,4.8,HABW250829-050
+29-Aug-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Prorocentrum micans,2667,,29.98,22.324,118.556,7.93,8.175,,1.113,,,,4.8,HABW250829-050
+29-Aug-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Tripos hircus,4667,,29.98,22.324,118.556,7.93,8.175,,1.113,,,,4.8,HABW250829-050
+29-Aug-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Odontella spp.,,present,29.98,22.324,118.556,7.93,8.175,,1.113,,,,4.8,HABW250829-050
+29-Aug-25,4.8,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,29.59,23.155,73.442,4.922,8.032,,6.149,,,,4.8,HABW250829-051
+29-Aug-25,4.8,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,29.59,23.155,73.442,4.922,8.032,,6.149,,,,4.8,HABW250829-051
+29-Aug-25,4.8,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,29.59,23.155,73.442,4.922,8.032,,6.149,,,,4.8,HABW250829-051
+29-Aug-25,4.8,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Tripos hircus,,present,29.59,23.155,73.442,4.922,8.032,,6.149,,,,4.8,HABW250829-051
+29-Aug-25,4.8,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Odontella mobilensis,,present,29.59,23.155,73.442,4.922,8.032,,6.149,,,,4.8,HABW250829-051
+29-Aug-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,30.06,22.48,102.509,6.842,8.128,,3.75,,,,4,HABW250829-052
+29-Aug-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,30.06,22.48,102.509,6.842,8.128,,3.75,,,,4,HABW250829-052
+29-Aug-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,30.06,22.48,102.509,6.842,8.128,,3.75,,,,4,HABW250829-052
+29-Aug-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,,present,30.06,22.48,102.509,6.842,8.128,,3.75,,,,4,HABW250829-052
+29-Aug-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,,present,30.06,22.48,102.509,6.842,8.128,,3.75,,,,4,HABW250829-052
+29-Aug-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,29.27,23.477,23.893,1.607,7.939,,3.315,,,,4,HABW250829-053
+29-Aug-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,29.27,23.477,23.893,1.607,7.939,,3.315,,,,4,HABW250829-053
+29-Aug-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,29.27,23.477,23.893,1.607,7.939,,3.315,,,,4,HABW250829-053
+29-Aug-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,,present,29.27,23.477,23.893,1.607,7.939,,3.315,,,,4,HABW250829-053
+29-Aug-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,,present,29.27,23.477,23.893,1.607,7.939,,3.315,,,,4,HABW250829-053
+29-Aug-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,29.81,23.28,111.678,7.452,8.156,,3.375,,,,3,HABW250829-054
+29-Aug-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,29.81,23.28,111.678,7.452,8.156,,3.375,,,,3,HABW250829-054
+29-Aug-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,29.81,23.28,111.678,7.452,8.156,,3.375,,,,3,HABW250829-054
+29-Aug-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Odontella spp.,,present,29.81,23.28,111.678,7.452,8.156,,3.375,,,,3,HABW250829-054
+29-Aug-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Sundstroemia spp.,,present,29.81,23.28,111.678,7.452,8.156,,3.375,,,,3,HABW250829-054
+29-Aug-25,3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,30.16,24.352,95.895,6.325,8.131,,4.036,,,,3,HABW250829-055
+29-Aug-25,3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,30.16,24.352,95.895,6.325,8.131,,4.036,,,,3,HABW250829-055
+29-Aug-25,3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,30.16,24.352,95.895,6.325,8.131,,4.036,,,,3,HABW250829-055
+29-Aug-25,3,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Odontella spp.,,present,30.16,24.352,95.895,6.325,8.131,,4.036,,,,3,HABW250829-055
+29-Aug-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,29.89,24.669,123.811,8.188,8.188,,2.649,,,,3.8,HABW250829-056
+29-Aug-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,0,,29.89,24.669,123.811,8.188,8.188,,2.649,,,,3.8,HABW250829-056
+29-Aug-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,29.89,24.669,123.811,8.188,8.188,,2.649,,,,3.8,HABW250829-056
+29-Aug-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Skeletonema spp.,,present,29.89,24.669,123.811,8.188,8.188,,2.649,,,,3.8,HABW250829-056
+29-Aug-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Sundstroemia spp.,,present,29.89,24.669,123.811,8.188,8.188,,2.649,,,,3.8,HABW250829-056
+29-Aug-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,29.99,25.174,102.355,6.739,8.091,,6.129,,,,10.9,HABW250829-057
+29-Aug-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,0,,29.99,25.174,102.355,6.739,8.091,,6.129,,,,10.9,HABW250829-057
+29-Aug-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,29.99,25.174,102.355,6.739,8.091,,6.129,,,,10.9,HABW250829-057
+29-Aug-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Tripos hircus,333,,29.99,25.174,102.355,6.739,8.091,,6.129,,,,10.9,HABW250829-057
+29-Aug-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Cyanobacteria unidentified filamentous,333,filaments/L,29.99,25.174,102.355,6.739,8.091,,6.129,,,,10.9,HABW250829-057
+29-Aug-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Sundstroemia pungens,,present,29.99,25.174,102.355,6.739,8.091,,6.129,,,,10.9,HABW250829-057
+29-Aug-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Odontella spp.,,present,29.99,25.174,102.355,6.739,8.091,,6.129,,,,10.9,HABW250829-057
+29-Aug-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,30.18,26.854,122.009,7.934,7.924,,4.932,,,,5.9,HABW250829-058
+29-Aug-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,0,,30.18,26.854,122.009,7.934,7.924,,4.932,,,,5.9,HABW250829-058
+29-Aug-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,30.18,26.854,122.009,7.934,7.924,,4.932,,,,5.9,HABW250829-058
+29-Aug-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Prorocentrum micans,,present,30.18,26.854,122.009,7.934,7.924,,4.932,,,,5.9,HABW250829-058
+29-Aug-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Odontella spp.,,present,30.18,26.854,122.009,7.934,7.924,,4.932,,,,5.9,HABW250829-058
+11-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,28.73,20.089,93.822,6.486,8.016,,6.375,,,,2.1,HABW250911-030
+11-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,28.73,20.089,93.822,6.486,8.016,,6.375,,,,2.1,HABW250911-030
+11-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,28.73,20.089,93.822,6.486,8.016,,6.375,,,,2.1,HABW250911-030
+11-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,208202,,28.73,20.089,93.822,6.486,8.016,,6.375,,,,2.1,HABW250911-030
+11-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoplankton,172672122,,28.73,20.089,93.822,6.486,8.016,,6.375,,,,2.1,HABW250911-030
+11-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Picoplankton,,present,28.73,20.089,93.822,6.486,8.016,,6.375,,,,2.1,HABW250911-030
+11-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoflagellates,,present,28.73,20.089,93.822,6.486,8.016,,6.375,,,,2.1,HABW250911-030
+11-Sep-25,2.1,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,28.39,17.94,20.6,1.455,7.971,,6.605,,,,2.1,HABW250911-031
+11-Sep-25,2.1,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,28.39,17.94,20.6,1.455,7.971,,6.605,,,,2.1,HABW250911-031
+11-Sep-25,2.1,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,28.39,17.94,20.6,1.455,7.971,,6.605,,,,2.1,HABW250911-031
+11-Sep-25,2.1,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,198561,,28.39,17.94,20.6,1.455,7.971,,6.605,,,,2.1,HABW250911-031
+11-Sep-25,2.1,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoplankton,83597124,,28.39,17.94,20.6,1.455,7.971,,6.605,,,,2.1,HABW250911-031
+11-Sep-25,2.1,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Picoplankton,,present,28.39,17.94,20.6,1.455,7.971,,6.605,,,,2.1,HABW250911-031
+11-Sep-25,2.1,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoflagellates,,present,28.39,17.94,20.6,1.455,7.971,,6.605,,,,2.1,HABW250911-031
+11-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,28.85,20.049,102.029,7.042,8.106,,4.792,,,,2.9,HABW250911-032
+11-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,28.85,20.049,102.029,7.042,8.106,,4.792,,,,2.9,HABW250911-032
+11-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,28.85,20.049,102.029,7.042,8.106,,4.792,,,,2.9,HABW250911-032
+11-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Tripos hircus,70043,,28.85,20.049,102.029,7.042,8.106,,4.792,,,,2.9,HABW250911-032
+11-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Nanoplankton,171481280,,28.85,20.049,102.029,7.042,8.106,,4.792,,,,2.9,HABW250911-032
+11-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Picoplankton,,present,28.85,20.049,102.029,7.042,8.106,,4.792,,,,2.9,HABW250911-032
+11-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Nanoflagellates,,present,28.85,20.049,102.029,7.042,8.106,,4.792,,,,2.9,HABW250911-032
+11-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,28.18,22.445,107.244,7.386,8.147,,4.46,,,,2,HABW250911-033
+11-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,28.18,22.445,107.244,7.386,8.147,,4.46,,,,2,HABW250911-033
+11-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,28.18,22.445,107.244,7.386,8.147,,4.46,,,,2,HABW250911-033
+11-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Picoplankton,,present,28.18,22.445,107.244,7.386,8.147,,4.46,,,,2,HABW250911-033
+11-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Prorocentrum micans,,present,28.18,22.445,107.244,7.386,8.147,,4.46,,,,2,HABW250911-033
+11-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Skeletonema spp.,,present,28.18,22.445,107.244,7.386,8.147,,4.46,,,,2,HABW250911-033
+11-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Odontella spp.,,present,28.18,22.445,107.244,7.386,8.147,,4.46,,,,2,HABW250911-033
+11-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Nanoplankton,,present,28.18,22.445,107.244,7.386,8.147,,4.46,,,,2,HABW250911-033
+11-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Nanodiatoms,,present,28.18,22.445,107.244,7.386,8.147,,4.46,,,,2,HABW250911-033
+11-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,27.94,23.846,92.228,6.328,8.1,,2.991,,,,2.8,HABW250911-034
+11-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,27.94,23.846,92.228,6.328,8.1,,2.991,,,,2.8,HABW250911-034
+11-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,14000,,27.94,23.846,92.228,6.328,8.1,,2.991,,,,2.8,HABW250911-034
+11-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Tripos hircus,,present,27.94,23.846,92.228,6.328,8.1,,2.991,,,,2.8,HABW250911-034
+11-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Prorocentrum micans,,present,27.94,23.846,92.228,6.328,8.1,,2.991,,,,2.8,HABW250911-034
+11-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Odontella spp.,,present,27.94,23.846,92.228,6.328,8.1,,2.991,,,,2.8,HABW250911-034
+11-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,28.13,21.908,92.988,6.429,8.05,,5.25,,,,4.3,HABW250911-035
+11-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,28.13,21.908,92.988,6.429,8.05,,5.25,,,,4.3,HABW250911-035
+11-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,28.13,21.908,92.988,6.429,8.05,,5.25,,,,4.3,HABW250911-035
+11-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoplankton,165527069,,28.13,21.908,92.988,6.429,8.05,,5.25,,,,4.3,HABW250911-035
+11-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Picoplankton,,present,28.13,21.908,92.988,6.429,8.05,,5.25,,,,4.3,HABW250911-035
+11-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoflagellates,,present,28.13,21.908,92.988,6.429,8.05,,5.25,,,,4.3,HABW250911-035
+11-Sep-25,4.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,28.06,21.973,88.022,6.09,8.029,,5.425,,,,4.3,HABW250911-036
+11-Sep-25,4.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,28.06,21.973,88.022,6.09,8.029,,5.425,,,,4.3,HABW250911-036
+11-Sep-25,4.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,28.06,21.973,88.022,6.09,8.029,,5.425,,,,4.3,HABW250911-036
+11-Sep-25,4.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Tripos hircus,3000,,28.06,21.973,88.022,6.09,8.029,,5.425,,,,4.3,HABW250911-036
+11-Sep-25,4.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Detritus,,present,28.06,21.973,88.022,6.09,8.029,,5.425,,,,4.3,HABW250911-036
+11-Sep-25,4.1,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Skeletonema spp.,,present,28.06,21.973,88.022,6.09,8.029,,5.425,,,,4.3,HABW250911-036
+11-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,28.12,21.291,100.012,6.94,8.169,,8.081,,,,3.5,HABW250911-037
+11-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,28.12,21.291,100.012,6.94,8.169,,8.081,,,,3.5,HABW250911-037
+11-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,28.12,21.291,100.012,6.94,8.169,,8.081,,,,3.5,HABW250911-037
+11-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoplankton,643054800,,28.12,21.291,100.012,6.94,8.169,,8.081,,,,3.5,HABW250911-037
+11-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,,present,28.12,21.291,100.012,6.94,8.169,,8.081,,,,3.5,HABW250911-037
+11-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Picoplankton,,present,28.12,21.291,100.012,6.94,8.169,,8.081,,,,3.5,HABW250911-037
+11-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,,present,28.12,21.291,100.012,6.94,8.169,,8.081,,,,3.5,HABW250911-037
+11-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoflagellates,,present,28.12,21.291,100.012,6.94,8.169,,8.081,,,,3.5,HABW250911-037
+11-Sep-25,3.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,28,22.06,92.197,6.383,8.18,,9.562,,,,3.5,HABW250911-038
+11-Sep-25,3.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,28,22.06,92.197,6.383,8.18,,9.562,,,,3.5,HABW250911-038
+11-Sep-25,3.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,28,22.06,92.197,6.383,8.18,,9.562,,,,3.5,HABW250911-038
+11-Sep-25,3.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoplankton,644245642,,28,22.06,92.197,6.383,8.18,,9.562,,,,3.5,HABW250911-038
+11-Sep-25,3.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Tripos hircus,,present,28,22.06,92.197,6.383,8.18,,9.562,,,,3.5,HABW250911-038
+11-Sep-25,3.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Picoplankton,,present,28,22.06,92.197,6.383,8.18,,9.562,,,,3.5,HABW250911-038
+11-Sep-25,3.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Prorocentrum micans,,present,28,22.06,92.197,6.383,8.18,,9.562,,,,3.5,HABW250911-038
+11-Sep-25,3.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoflagellates,,present,28,22.06,92.197,6.383,8.18,,9.562,,,,3.5,HABW250911-038
+11-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,27.98,22.967,87.066,5.999,8.034,,5.126,,,,2.7,HABW250911-039
+11-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,27.98,22.967,87.066,5.999,8.034,,5.126,,,,2.7,HABW250911-039
+11-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,5000,,27.98,22.967,87.066,5.999,8.034,,5.126,,,,2.7,HABW250911-039
+11-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Odontella spp.,,present,27.98,22.967,87.066,5.999,8.034,,5.126,,,,2.7,HABW250911-039
+11-Sep-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,27.99,22.991,86.808,5.98,8.033,,4.642,,,,2.7,HABW250911-040
+11-Sep-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,27.99,22.991,86.808,5.98,8.033,,4.642,,,,2.7,HABW250911-040
+11-Sep-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Tripos hircus,667,,27.99,22.991,86.808,5.98,8.033,,4.642,,,,2.7,HABW250911-040
+11-Sep-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Prorocentrum spp.,2000,,27.99,22.991,86.808,5.98,8.033,,4.642,,,,2.7,HABW250911-040
+11-Sep-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,12333,,27.99,22.991,86.808,5.98,8.033,,4.642,,,,2.7,HABW250911-040
+11-Sep-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Dactyliosolen fragilissimus,,present,27.99,22.991,86.808,5.98,8.033,,4.642,,,,2.7,HABW250911-040
+11-Sep-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Skeletonema spp.,,present,27.99,22.991,86.808,5.98,8.033,,4.642,,,,2.7,HABW250911-040
+11-Sep-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Odontella spp.,,present,27.99,22.991,86.808,5.98,8.033,,4.642,,,,2.7,HABW250911-040
+11-Sep-25,2.6,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Sundstroemia spp.,,present,27.99,22.991,86.808,5.98,8.033,,4.642,,,,2.7,HABW250911-040
+11-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,28.21,24.285,87.489,5.961,8.067,,2.945,,,,3.4,HABW250911-041
+11-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,28.21,24.285,87.489,5.961,8.067,,2.945,,,,3.4,HABW250911-041
+11-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Tripos hircus,1667,,28.21,24.285,87.489,5.961,8.067,,2.945,,,,3.4,HABW250911-041
+11-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Prorocentrum spp.,4667,,28.21,24.285,87.489,5.961,8.067,,2.945,,,,3.4,HABW250911-041
+11-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,17333,,28.21,24.285,87.489,5.961,8.067,,2.945,,,,3.4,HABW250911-041
+11-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Dactyliosolen fragilissimus,,present,28.21,24.285,87.489,5.961,8.067,,2.945,,,,3.4,HABW250911-041
+11-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Skeletonema spp.,,present,28.21,24.285,87.489,5.961,8.067,,2.945,,,,3.4,HABW250911-041
+11-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Odontella spp.,,present,28.21,24.285,87.489,5.961,8.067,,2.945,,,,3.4,HABW250911-041
+11-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Sundstroemia spp.,,present,28.21,24.285,87.489,5.961,8.067,,2.945,,,,3.4,HABW250911-041
+11-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,28.35,24.583,81.146,5.507,8.047,,2.982,,,,10.8,HABW250911-042
+11-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,28.35,24.583,81.146,5.507,8.047,,2.982,,,,10.8,HABW250911-042
+11-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Prorocentrum spp.,667,,28.35,24.583,81.146,5.507,8.047,,2.982,,,,10.8,HABW250911-042
+11-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,43333,,28.35,24.583,81.146,5.507,8.047,,2.982,,,,10.8,HABW250911-042
+11-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Dactyliosolen fragilissimus,,present,28.35,24.583,81.146,5.507,8.047,,2.982,,,,10.8,HABW250911-042
+11-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Skeletonema spp.,,present,28.35,24.583,81.146,5.507,8.047,,2.982,,,,10.8,HABW250911-042
+11-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Odontella spp.,,present,28.35,24.583,81.146,5.507,8.047,,2.982,,,,10.8,HABW250911-042
+11-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Sundstroemia spp.,,present,28.35,24.583,81.146,5.507,8.047,,2.982,,,,10.8,HABW250911-042
+11-Sep-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,28.58,26.043,87.073,5.839,8.136,,2.752,,,,5.5,HABW250911-043
+11-Sep-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,28.58,26.043,87.073,5.839,8.136,,2.752,,,,5.5,HABW250911-043
+11-Sep-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,84333,,28.58,26.043,87.073,5.839,8.136,,2.752,,,,5.5,HABW250911-043
+11-Sep-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Prorocentrum micans,,present,28.58,26.043,87.073,5.839,8.136,,2.752,,,,5.5,HABW250911-043
+11-Sep-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Skeletonema spp.,,present,28.58,26.043,87.073,5.839,8.136,,2.752,,,,5.5,HABW250911-043
+11-Sep-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Odontella spp.,,present,28.58,26.043,87.073,5.839,8.136,,2.752,,,,5.5,HABW250911-043
+25-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,30.87,21.282,97.84,6.486,8.024,,1.179,,,,2.3,HABW250925-042
+25-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,30.87,21.282,97.84,6.486,8.024,,1.179,,,,2.3,HABW250925-042
+25-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia sp.,667,,30.87,21.282,97.84,6.486,8.024,,1.179,,,,2.3,HABW250925-042
+25-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,3333,,30.87,21.282,97.84,6.486,8.024,,1.179,,,,2.3,HABW250925-042
+25-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanodiatoms,21435160,,30.87,21.282,97.84,6.486,8.024,,1.179,,,,2.3,HABW250925-042
+25-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoflagellates,23816844,,30.87,21.282,97.84,6.486,8.024,,1.179,,,,2.3,HABW250925-042
+25-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoplankton,188153071,,30.87,21.282,97.84,6.486,8.024,,1.179,,,,2.3,HABW250925-042
+25-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Picoplankton,,present,30.87,21.282,97.84,6.486,8.024,,1.179,,,,2.3,HABW250925-042
+25-Sep-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum sp.,,present,30.87,21.282,97.84,6.486,8.024,,1.179,,,,2.3,HABW250925-042
+25-Sep-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,29.98,21.821,63.26,4.243,7.996,,5.47,,,,2.3,HABW250925-043
+25-Sep-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,29.98,21.821,63.26,4.243,7.996,,5.47,,,,2.3,HABW250925-043
+25-Sep-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,4667,,29.98,21.821,63.26,4.243,7.996,,5.47,,,,2.3,HABW250925-043
+25-Sep-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanodiatoms,2143516,,29.98,21.821,63.26,4.243,7.996,,5.47,,,,2.3,HABW250925-043
+25-Sep-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoflagellates,7145053,,29.98,21.821,63.26,4.243,7.996,,5.47,,,,2.3,HABW250925-043
+25-Sep-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoplankton,110033821,,29.98,21.821,63.26,4.243,7.996,,5.47,,,,2.3,HABW250925-043
+25-Sep-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Picoplankton,,present,29.98,21.821,63.26,4.243,7.996,,5.47,,,,2.3,HABW250925-043
+25-Sep-25,2.2,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum micans,,present,29.98,21.821,63.26,4.243,7.996,,5.47,,,,2.3,HABW250925-043
+25-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,30.11,21.88,103.488,6.924,8.125,,4.334,,,,3.2,HABW250925-044
+25-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,30.11,21.88,103.488,6.924,8.125,,4.334,,,,3.2,HABW250925-044
+25-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,30.11,21.88,103.488,6.924,8.125,,4.334,,,,3.2,HABW250925-044
+25-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Nanoflagellates,17862633,,30.11,21.88,103.488,6.924,8.125,,4.334,,,,3.2,HABW250925-044
+25-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Nanodiatoms,26198529,,30.11,21.88,103.488,6.924,8.125,,4.334,,,,3.2,HABW250925-044
+25-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Nanoplankton,253649393,,30.11,21.88,103.488,6.924,8.125,,4.334,,,,3.2,HABW250925-044
+25-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Tripos hircus,,present,30.11,21.88,103.488,6.924,8.125,,4.334,,,,3.2,HABW250925-044
+25-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Picoplankton,,present,30.11,21.88,103.488,6.924,8.125,,4.334,,,,3.2,HABW250925-044
+25-Sep-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Prorocentrum micans,,present,30.11,21.88,103.488,6.924,8.125,,4.334,,,,3.2,HABW250925-044
+25-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,30.34,22.987,91.374,6.053,8.034,,3.283,,,,1.8,HABW250925-045
+25-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,30.34,22.987,91.374,6.053,8.034,,3.283,,,,1.8,HABW250925-045
+25-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,30.34,22.987,91.374,6.053,8.034,,3.283,,,,1.8,HABW250925-045
+25-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Nanoflagellates,15480949,,30.34,22.987,91.374,6.053,8.034,,3.283,,,,1.8,HABW250925-045
+25-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Nanodiatoms,20244318,,30.34,22.987,91.374,6.053,8.034,,3.283,,,,1.8,HABW250925-045
+25-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Nanoplankton,195298124,,30.34,22.987,91.374,6.053,8.034,,3.283,,,,1.8,HABW250925-045
+25-Sep-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Picoplankton,,present,30.34,22.987,91.374,6.053,8.034,,3.283,,,,1.8,HABW250925-045
+25-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,29.45,23.876,97.679,6.534,8.12,,1.839,,,,2.8,HABW250925-046
+25-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,`,29.45,23.876,97.679,6.534,8.12,,1.839,,,,2.8,HABW250925-046
+25-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,14000,,29.45,23.876,97.679,6.534,8.12,,1.839,,,,2.8,HABW250925-046
+25-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Nanoflagellates,5001537,,29.45,23.876,97.679,6.534,8.12,,1.839,,,,2.8,HABW250925-046
+25-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Nanodiatoms,8574064,,29.45,23.876,97.679,6.534,8.12,,1.839,,,,2.8,HABW250925-046
+25-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Nanoplankton,102888768,,29.45,23.876,97.679,6.534,8.12,,1.839,,,,2.8,HABW250925-046
+25-Sep-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Picoplankton,,present,29.45,23.876,97.679,6.534,8.12,,1.839,,,,2.8,HABW250925-046
+25-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,29.88,22.955,100.771,6.728,8.128,,3.72,,,,4.6,HABW250925-047
+25-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,29.88,22.955,100.771,6.728,8.128,,3.72,,,,4.6,HABW250925-047
+25-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,29.88,22.955,100.771,6.728,8.128,,3.72,,,,4.6,HABW250925-047
+25-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Tripos hircus,667,,29.88,22.955,100.771,6.728,8.128,,3.72,,,,4.6,HABW250925-047
+25-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoflagellates,8335896,,29.88,22.955,100.771,6.728,8.128,,3.72,,,,4.6,HABW250925-047
+25-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanodiatoms,42870320,,29.88,22.955,100.771,6.728,8.128,,3.72,,,,4.6,HABW250925-047
+25-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoplankton,150046120,,29.88,22.955,100.771,6.728,8.128,,3.72,,,,4.6,HABW250925-047
+25-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Picoplankton,,present,29.88,22.955,100.771,6.728,8.128,,3.72,,,,4.6,HABW250925-047
+25-Sep-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Prorocentrum sp.,,present,29.88,22.955,100.771,6.728,8.128,,3.72,,,,4.6,HABW250925-047
+25-Sep-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,29.35,23.29,79.651,5.355,8.075,,4.184,,,,4.6,HABW250925-048
+25-Sep-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,29.35,23.29,79.651,5.355,8.075,,4.184,,,,4.6,HABW250925-048
+25-Sep-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia sp.,2000,,29.35,23.29,79.651,5.355,8.075,,4.184,,,,4.6,HABW250925-048
+25-Sep-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanodiatoms,11908422,,29.35,23.29,79.651,5.355,8.075,,4.184,,,,4.6,HABW250925-048
+25-Sep-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoflagellate Type PL,11908422,,29.35,23.29,79.651,5.355,8.075,,4.184,,,,4.6,HABW250925-048
+25-Sep-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoplankton,181008018,,29.35,23.29,79.651,5.355,8.075,,4.184,,,,4.6,HABW250925-048
+25-Sep-25,4.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Picoplankton,,present,29.35,23.29,79.651,5.355,8.075,,4.184,,,,4.6,HABW250925-048
+25-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,29.62,21.462,109.128,7.378,8.269,,4.559,,,,3.4,HABW250925-049
+25-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,29.62,21.462,109.128,7.378,8.269,,4.559,,,,3.4,HABW250925-049
+25-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,29.62,21.462,109.128,7.378,8.269,,4.559,,,,3.4,HABW250925-049
+25-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoplankton,570413424,,29.62,21.462,109.128,7.378,8.269,,4.559,,,,3.4,HABW250925-049
+25-Sep-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Picoplankton,,present,29.62,21.462,109.128,7.378,8.269,,4.559,,,,3.4,HABW250925-049
+25-Sep-25,3.4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,28.82,22.303,41.363,2.821,8.21,,7.075,,,,3.4,HABW250925-050
+25-Sep-25,3.4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,28.82,22.303,41.363,2.821,8.21,,7.075,,,,3.4,HABW250925-050
+25-Sep-25,3.4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,28.82,22.303,41.363,2.821,8.21,,7.075,,,,3.4,HABW250925-050
+25-Sep-25,3.4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoplankton,410840567,,28.82,22.303,41.363,2.821,8.21,,7.075,,,,3.4,HABW250925-050
+25-Sep-25,3.4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Picoplankton,,present,28.82,22.303,41.363,2.821,8.21,,7.075,,,,3.4,HABW250925-050
+25-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,29.46,23.309,82.298,5.522,8.088,,4.025,,,,2.7,HABW250925-051
+25-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,29.46,23.309,82.298,5.522,8.088,,4.025,,,,2.7,HABW250925-051
+25-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,29.46,23.309,82.298,5.522,8.088,,4.025,,,,2.7,HABW250925-051
+25-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Prorocentrum sp.,667,,29.46,23.309,82.298,5.522,8.088,,4.025,,,,2.7,HABW250925-051
+25-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Tripos hircus,2000,,29.46,23.309,82.298,5.522,8.088,,4.025,,,,2.7,HABW250925-051
+25-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanoflagellates,10717580,,29.46,23.309,82.298,5.522,8.088,,4.025,,,,2.7,HABW250925-051
+25-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanodiatoms,19053476,,29.46,23.309,82.298,5.522,8.088,,4.025,,,,2.7,HABW250925-051
+25-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanoplankton,331054138,,29.46,23.309,82.298,5.522,8.088,,4.025,,,,2.7,HABW250925-051
+25-Sep-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Picoplankton,,present,29.46,23.309,82.298,5.522,8.088,,4.025,,,,2.7,HABW250925-051
+25-Sep-25,2.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,29.46,23.812,75.254,5.036,8.071,,3.379,,,,2.7,HABW250925-052
+25-Sep-25,2.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,0,,29.46,23.812,75.254,5.036,8.071,,3.379,,,,2.7,HABW250925-052
+25-Sep-25,2.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,29.46,23.812,75.254,5.036,8.071,,3.379,,,,2.7,HABW250925-052
+25-Sep-25,2.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanoflagellates,3572527,,29.46,23.812,75.254,5.036,8.071,,3.379,,,,2.7,HABW250925-052
+25-Sep-25,2.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanodiatoms,16671791,,29.46,23.812,75.254,5.036,8.071,,3.379,,,,2.7,HABW250925-052
+25-Sep-25,2.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanoplankton,210779073,,29.46,23.812,75.254,5.036,8.071,,3.379,,,,2.7,HABW250925-052
+25-Sep-25,2.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Picoplankton,,present,29.46,23.812,75.254,5.036,8.071,,3.379,,,,2.7,HABW250925-052
+25-Sep-25,2.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Prorocentrum micans,,present,29.46,23.812,75.254,5.036,8.071,,3.379,,,,2.7,HABW250925-052
+25-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,29.81,24.37,,,,,,,,,3.4,HABW250925-053
+25-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,29.81,24.37,,,,,,,,,3.4,HABW250925-053
+25-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,21000,,29.81,24.37,,,,,,,,,3.4,HABW250925-053
+25-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Picoplankton,,present,29.81,24.37,,,,,,,,,3.4,HABW250925-053
+25-Sep-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Nanoplankton,,present,29.81,24.37,,,,,,,,,3.4,HABW250925-053
+25-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,29.68,24.77,77.541,5.142,8.036,,1.808,,,,10.4,HABW250925-054
+25-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,29.68,24.77,77.541,5.142,8.036,,1.808,,,,10.4,HABW250925-054
+25-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,60000,,29.68,24.77,77.541,5.142,8.036,,1.808,,,,10.4,HABW250925-054
+25-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Picoplankton,,present,29.68,24.77,77.541,5.142,8.036,,1.808,,,,10.4,HABW250925-054
+25-Sep-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Nanoplankton,,present,29.68,24.77,77.541,5.142,8.036,,1.808,,,,10.4,HABW250925-054
+25-Sep-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,28.92,26.329,77.106,5.134,7.923,,0.49,,,,5.4,HABW250925-055
+25-Sep-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,28.92,26.329,77.106,5.134,7.923,,0.49,,,,5.4,HABW250925-055
+25-Sep-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,7000,,28.92,26.329,77.106,5.134,7.923,,0.49,,,,5.4,HABW250925-055
+14-Oct-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,26.08,23.293,86.425,6.139,8.044,,1.834,,,,2.3,HABW251014-030
+14-Oct-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,26.08,23.293,86.425,6.139,8.044,,1.834,,,,2.3,HABW251014-030
+14-Oct-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,26.08,23.293,86.425,6.139,8.044,,1.834,,,,2.3,HABW251014-030
+14-Oct-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Nanoplankton,134565171,,26.08,23.293,86.425,6.139,8.044,,1.834,,,,2.3,HABW251014-030
+14-Oct-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,,present,26.08,23.293,86.425,6.139,8.044,,1.834,,,,2.3,HABW251014-030
+14-Oct-25,0.5,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum micans,,present,26.08,23.293,86.425,6.139,8.044,,1.834,,,,2.3,HABW251014-030
+14-Oct-25,2.3,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Karenia brevis,0,,25.33,22.602,67.585,4.882,8.037,,3.099,,,,2.3,HABW251014-031
+14-Oct-25,2.3,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pseudo-nitzschia spp.,0,,25.33,22.602,67.585,4.882,8.037,,3.099,,,,2.3,HABW251014-031
+14-Oct-25,2.3,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Pyrodinium bahamense,0,,25.33,22.602,67.585,4.882,8.037,,3.099,,,,2.3,HABW251014-031
+14-Oct-25,2.3,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Prorocentrum spp.,5667,,25.33,22.602,67.585,4.882,8.037,,3.099,,,,2.3,HABW251014-031
+14-Oct-25,2.3,TB Pyrodinium Station 01,Philippe Park; NE of (Safety Harbor),28.02,-82.675,Tripos hircus,7000,,25.33,22.602,67.585,4.882,8.037,,3.099,,,,2.3,HABW251014-031
+14-Oct-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Karenia brevis,0,,26.28,23.192,105.174,7.451,8.155,,2.434,,,,3.3,HABW251014-032
+14-Oct-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pseudo-nitzschia spp.,0,,26.28,23.192,105.174,7.451,8.155,,2.434,,,,3.3,HABW251014-032
+14-Oct-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Pyrodinium bahamense,0,,26.28,23.192,105.174,7.451,8.155,,2.434,,,,3.3,HABW251014-032
+14-Oct-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Nanoplankton,377496984,,26.28,23.192,105.174,7.451,8.155,,2.434,,,,3.3,HABW251014-032
+14-Oct-25,0.5,TB Pyrodinium Station 02,Cooper Point; E of (Old Tampa Bay),27.972,-82.673,Picoplankton,,present,26.28,23.192,105.174,7.451,8.155,,2.434,,,,3.3,HABW251014-032
+14-Oct-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Karenia brevis,0,,25.42,24.014,101.556,7.267,8.125,,2.467,,,,2.4,HABW251014-033
+14-Oct-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pseudo-nitzschia spp.,0,,25.42,24.014,101.556,7.267,8.125,,2.467,,,,2.4,HABW251014-033
+14-Oct-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Pyrodinium bahamense,0,,25.42,24.014,101.556,7.267,8.125,,2.467,,,,2.4,HABW251014-033
+14-Oct-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Nanoplankton,203634020,,25.42,24.014,101.556,7.267,8.125,,2.467,,,,2.4,HABW251014-033
+14-Oct-25,0.5,TB Pyrodinium Station 03,Old Tampa Bay Park; 1.7 mi S of (Old Tampa Bay),27.98,-82.62,Picoplankton,,present,25.42,24.014,101.556,7.267,8.125,,2.467,,,,2.4,HABW251014-033
+14-Oct-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Karenia brevis,0,,25.59,24.945,96.015,6.815,8.127,,2.264,,,,3.3,HABW251014-034
+14-Oct-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pyrodinium bahamense,0,,25.59,24.945,96.015,6.815,8.127,,2.264,,,,3.3,HABW251014-034
+14-Oct-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Prorocentrum spp.,1667,,25.59,24.945,96.015,6.815,8.127,,2.264,,,,3.3,HABW251014-034
+14-Oct-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Tripos hircus,3333,,25.59,24.945,96.015,6.815,8.127,,2.264,,,,3.3,HABW251014-034
+14-Oct-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Pseudo-nitzschia spp.,11667,,25.59,24.945,96.015,6.815,8.127,,2.264,,,,3.3,HABW251014-034
+14-Oct-25,0.5,TB Pyrodinium Station 04,Howard Frankland Bridge; N of (Old Tampa Bay),27.949,-82.561,Dactyliosolen fragilissimus,,present,25.59,24.945,96.015,6.815,8.127,,2.264,,,,3.3,HABW251014-034
+14-Oct-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,25.46,23.931,91.754,6.564,8.105,,2.944,,,,4.7,HABW251014-035
+14-Oct-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,25.46,23.931,91.754,6.564,8.105,,2.944,,,,4.7,HABW251014-035
+14-Oct-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,25.46,23.931,91.754,6.564,8.105,,2.944,,,,4.7,HABW251014-035
+14-Oct-25,0.5,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoplankton,163145384,,25.46,23.931,91.754,6.564,8.105,,2.944,,,,4.7,HABW251014-035
+14-Oct-25,4.6,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Karenia brevis,0,,25.45,23.997,86.417,6.181,8.077,,3.753,,,,4.7,HABW251014-036
+14-Oct-25,4.6,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pseudo-nitzschia spp.,0,,25.45,23.997,86.417,6.181,8.077,,3.753,,,,4.7,HABW251014-036
+14-Oct-25,4.6,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Pyrodinium bahamense,0,,25.45,23.997,86.417,6.181,8.077,,3.753,,,,4.7,HABW251014-036
+14-Oct-25,4.6,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Nanoplankton,153618647,,25.45,23.997,86.417,6.181,8.077,,3.753,,,,4.7,HABW251014-036
+14-Oct-25,4.6,TB Pyrodinium Station 05,C. Campbell Causeway; S of (Old Tampa Bay),27.957,-82.622,Picoplankton,,present,25.45,23.997,86.417,6.181,8.077,,3.753,,,,4.7,HABW251014-036
+14-Oct-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,25.36,22.916,93.234,6.72,8.169,,3.647,,,,4,HABW251014-037
+14-Oct-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,25.36,22.916,93.234,6.72,8.169,,3.647,,,,4,HABW251014-037
+14-Oct-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,25.36,22.916,93.234,6.72,8.169,,3.647,,,,4,HABW251014-037
+14-Oct-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoplankton,226260022,,25.36,22.916,93.234,6.72,8.169,,3.647,,,,4,HABW251014-037
+14-Oct-25,0.5,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Picoplankton,,present,25.36,22.916,93.234,6.72,8.169,,3.647,,,,4,HABW251014-037
+14-Oct-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Karenia brevis,0,,24.9,22.902,77.716,5.648,8.153,,5.353,,,,4,HABW251014-038
+14-Oct-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pseudo-nitzschia spp.,0,,24.9,22.902,77.716,5.648,8.153,,5.353,,,,4,HABW251014-038
+14-Oct-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Pyrodinium bahamense,0,,24.9,22.902,77.716,5.648,8.153,,5.353,,,,4,HABW251014-038
+14-Oct-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Nanoplankton,281038764,,24.9,22.902,77.716,5.648,8.153,,5.353,,,,4,HABW251014-038
+14-Oct-25,4,TB Pyrodinium Station 06,High Point; 2 mi NE of (Old Tampa Bay),27.942,-82.675,Picoplankton,,present,24.9,22.902,77.716,5.648,8.153,,5.353,,,,4,HABW251014-038
+14-Oct-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,25.25,24.233,98.59,7.067,8.148,,2.519,,,,3.1,HABW251014-039
+14-Oct-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,25.25,24.233,98.59,7.067,8.148,,2.519,,,,3.1,HABW251014-039
+14-Oct-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,13333,,25.25,24.233,98.59,7.067,8.148,,2.519,,,,3.1,HABW251014-039
+14-Oct-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanoplankton,186962229,,25.25,24.233,98.59,7.067,8.148,,2.519,,,,3.1,HABW251014-039
+14-Oct-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Picoplankton,,present,25.25,24.233,98.59,7.067,8.148,,2.519,,,,3.1,HABW251014-039
+14-Oct-25,0.5,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Prorocentrum sp.,,present,25.25,24.233,98.59,7.067,8.148,,2.519,,,,3.1,HABW251014-039
+14-Oct-25,3.1,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Karenia brevis,0,,25.13,24.388,94.412,6.776,8.139,,3.084,,,,3.1,HABW251014-040
+14-Oct-25,3.1,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pyrodinium bahamense,0,,25.13,24.388,94.412,6.776,8.139,,3.084,,,,3.1,HABW251014-040
+14-Oct-25,3.1,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Pseudo-nitzschia spp.,9333,,25.13,24.388,94.412,6.776,8.139,,3.084,,,,3.1,HABW251014-040
+14-Oct-25,3.1,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Nanoplankton,132183487,,25.13,24.388,94.412,6.776,8.139,,3.084,,,,3.1,HABW251014-040
+14-Oct-25,3.1,TB Pyrodinium Station 07,Big Island; 2.2 mi E of (Old Tampa Bay),27.9055,-82.6046,Picoplankton,,present,25.13,24.388,94.412,6.776,8.139,,3.084,,,,3.1,HABW251014-040
+14-Oct-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Karenia brevis,0,,25.36,25.456,96.93,6.887,8.109,,1.801,,,,3.9,HABW251014-041
+14-Oct-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pyrodinium bahamense,0,,25.36,25.456,96.93,6.887,8.109,,1.801,,,,3.9,HABW251014-041
+14-Oct-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Prorocentrum spp.,1333,,25.36,25.456,96.93,6.887,8.109,,1.801,,,,3.9,HABW251014-041
+14-Oct-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Pseudo-nitzschia spp.,31000,,25.36,25.456,96.93,6.887,8.109,,1.801,,,,3.9,HABW251014-041
+14-Oct-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Dactyliosolen fragilissimus,,present,25.36,25.456,96.93,6.887,8.109,,1.801,,,,3.9,HABW251014-041
+14-Oct-25,0.5,TB Pyrodinium Station 08,San Jose St; W of (Old Tampa Bay),27.9244,-82.5496,Sundstroemia pungens,,present,25.36,25.456,96.93,6.887,8.109,,1.801,,,,3.9,HABW251014-041
+14-Oct-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Karenia brevis,0,,25.04,26.143,91.592,6.518,8.071,,2.523,,,,11.4,HABW251014-042
+14-Oct-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pyrodinium bahamense,0,,25.04,26.143,91.592,6.518,8.071,,2.523,,,,11.4,HABW251014-042
+14-Oct-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Tripos hircus,1333,,25.04,26.143,91.592,6.518,8.071,,2.523,,,,11.4,HABW251014-042
+14-Oct-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Prorocentrum spp.,5000,,25.04,26.143,91.592,6.518,8.071,,2.523,,,,11.4,HABW251014-042
+14-Oct-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Pseudo-nitzschia spp.,84333,,25.04,26.143,91.592,6.518,8.071,,2.523,,,,11.4,HABW251014-042
+14-Oct-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Dactyliosolen fragilissimus,,present,25.04,26.143,91.592,6.518,8.071,,2.523,,,,11.4,HABW251014-042
+14-Oct-25,0.5,TB Pyrodinium Station 09,Weedon Island; E of (Old Tampa Bay),27.86111,-82.58911,Sundstroemia pungens,,present,25.04,26.143,91.592,6.518,8.071,,2.523,,,,11.4,HABW251014-042
+14-Oct-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Karenia brevis,0,,25.99,27.34,98.187,6.828,7.931,,2.57,,,,5.7,HABW251014-043
+14-Oct-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pyrodinium bahamense,0,,25.99,27.34,98.187,6.828,7.931,,2.57,,,,5.7,HABW251014-043
+14-Oct-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Tripos hircus,1333,,25.99,27.34,98.187,6.828,7.931,,2.57,,,,5.7,HABW251014-043
+14-Oct-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Dinophysis spp.,1333,,25.99,27.34,98.187,6.828,7.931,,2.57,,,,5.7,HABW251014-043
+14-Oct-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Pseudo-nitzschia spp.,138667,,25.99,27.34,98.187,6.828,7.931,,2.57,,,,5.7,HABW251014-043
+14-Oct-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Dactyliosolen spp.,2279392,,25.99,27.34,98.187,6.828,7.931,,2.57,,,,5.7,HABW251014-043
+14-Oct-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Prorocentrum sp.,,present,25.99,27.34,98.187,6.828,7.931,,2.57,,,,5.7,HABW251014-043
+14-Oct-25,0.5,TB Pyrodinium Station 10/MML E 10,Snell Isle; 2.3 mi SE of (Middle Tampa Bay),27.7723,-82.5789,Leptocylindrus spp.,,present,25.99,27.34,98.187,6.828,7.931,,2.57,,,,5.7,HABW251014-043

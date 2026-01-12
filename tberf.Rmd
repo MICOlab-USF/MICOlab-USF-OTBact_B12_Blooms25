@@ -1,0 +1,328 @@
+---
+title: "tberf"
+author: "Maggi Brisbin"
+date: "2025-12-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*Set up: import packages and define color palette*
+```{r import packages, warning=FALSE, message=FALSE}
+library(dplyr) # dataframe manipulation
+library(stringr)
+library(ggplot2) # plotting package
+library(lubridate)
+library(tidyr)
+library(scales)
+library(ggOceanMaps)
+library(ggspatial)
+`%ni%` = Negate(`%in%`)
+
+TBcolors <- c("#9e0142", "#d53e4f", "#f46d43", "#fdae61", "#fee08b", "#e6f598", "#abdda4", "#66c2a5", "#3288bd", "#5e4fa2"  )
+```
+
+
+*Make Florida map with square designating the bounds of themap for the OTB sampling region*
+```{r}
+#define limits of map
+dt <- data.frame(lon = c(-79.5, -79.5, -85, -85), lat = c(25, 30.5, 30.5, 25)) 
+
+FL <- basemap(data = dt, bathymetry = TRUE) + 
+   geom_rect(aes(xmin = -82.9, xmax = -82.3, ymin = 27.65, ymax = 28.1), color = "black", fill = NA)  + xlab("") + ylab("") + 
+  ggspatial::annotation_scale(location = "bl", line_width = 1,
+  height = unit(0.5, "cm"),
+  pad_x = unit(1, "cm"),
+  pad_y = unit(0.5, "cm"),
+  text_pad = unit(0.3, "cm"),
+  text_cex = 1,
+  text_face = NULL,
+  text_family = "",
+  tick_height = 1) + 
+  ggspatial::annotation_north_arrow(location = "tr", which_north = "true",  height = unit(1.5, "cm"),
+  width = unit(1.5, "cm")) 
+
+FL
+```
+
+ggsave("FLmap.png", width = 4, height = 4)
+
+*Read in FWC data from OTB sampling in the summer of 2025*
+- this data was acquired through a request made to HABdata@myFWC.com 
+
+```{r}
+FWC <- read.csv("TBPhyto20250508-20251014.csv") #this is the raw data file provided by FWC
+FWC$Station_Number <-  sapply(strsplit(FWC$Station.ID, "\\s+"), tail, 1) # formatting station numbers
+FWC$Station_Number <- factor(FWC$Station_Number, levels = c("01", "02", "03", "04", "05", "06", "07", "08", "09", "10")) # formatting station numbers
+```
+
+
+*Plots sample locations and label station number*
+
+```{r}
+locs <- unique(FWC %>% select(Station_Number, Latitude, Longitude)) #create smaller data frame with one row per station and including only Station Number, Lat, Long
+
+dt <- data.frame(lon = c(-82.3, -82.3, -82.9, -82.9), lat = c(27.65, 28.1, 28.1, 27.65)) #define limits of OTB map
+
+OTB <- basemap(data = dt, bathymetry = TRUE)   + geom_point(data = locs, aes(x = Longitude, y = Latitude, color = Station_Number))+ xlab("") + ylab("") + theme(legend.position = "none") +  scale_color_manual(values = TBcolors) + geom_text(data = locs, aes(x = Longitude, y = Latitude, label = Station_Number), nudge_x = 0.0215) + ggtitle("OTB sampling stations")
+
+OTB
+```
+ggsave("OTBstations.png", width = 4, height = 4)
+
+*Spatial view of data*
+*Plot Salinity data spatially for one time point:* 
+```{r}
+OTBsalinity <- basemap(data = dt, bathymetry = TRUE)   + geom_point(data = (sal %>% filter(Sample.Date == "2025-05-08")), aes(x = Longitude, y = Latitude, color = Salinity), size = 3)+ xlab("") + ylab("") + theme(legend.position = "right")  + geom_text(data = locs, aes(x = Longitude, y = Latitude, label = Station_Number), nudge_x = 0.025) + scale_color_continuous(type = "viridis") + ggtitle("2025-05-08")
+
+OTBsalinity
+```
+- This is better in a dynamic Shiny App, rather than plotting one date at a time
+- See: https://micolab-usf.shinyapps.io/otbact/
+
+*Time-series plotting*
+
+*Salinity* 
+```{r}
+sal <- unique(FWC %>% select(Sample.Date, Sample.Depth..m., Station_Number, Latitude, Longitude, Salinity)) %>%  filter(Sample.Depth..m. == 0.5) #subset FWC datafrome to only include Salinity at the near surface
+
+sal$Sample.Date <- dmy(sal$Sample.Date) # format date column
+
+salP<- sal %>%  ggplot(aes(x= Sample.Date, y = Salinity, color = Station_Number)) + geom_point() + geom_line() + scale_color_manual(values = TBcolors) + theme_test()
+
+salP
+```
+
+
+
+*Temperature*
+```{r}
+temp <- unique(FWC %>% select(Sample.Date, Sample.Depth..m., Station_Number, Latitude, Longitude, Temp..ᵒC.)) %>%  filter(Sample.Depth..m. == 0.5)
+
+temp$Sample.Date <- dmy(temp$Sample.Date)
+
+tempP <- temp %>%  ggplot(aes(x= Sample.Date, y = Temp..ᵒC., color = Station_Number)) + geom_point() + geom_line() + scale_color_manual(values = TBcolors) + theme_test()
+
+tempP
+```
+ggsave("salinity.pdf", width = 6, height = 3)
+
+*Chlorophyll-a fluorescence* 
+
+```{r}
+chl <- unique(FWC %>% select(Sample.Date, Sample.Depth..m., Station_Number, Latitude, Longitude, Chlorophyll.fluorescence..µg.L.)) %>%  filter(Sample.Depth..m. == 0.5)
+
+chl$Sample.Date <- dmy(chl$Sample.Date)
+
+chlP<- chl %>%  ggplot(aes(x= Sample.Date, y = Chlorophyll.fluorescence..µg.L., color = Station_Number)) + geom_point() + geom_line() + scale_color_manual(values = TBcolors) + theme_test()
+
+chlP
+```
+
+*Bacterial Cell Counts*
+
+```{r warning=FALSE}
+bact = data.frame(matrix(
+  vector(), 0, 13, dimnames=list(c(), c("Sample", "Station" , "Rep" , "Gate", "X.Parameter", "Y.Parameter",  "Volume", "Concentration", "X.Mean", "Y.Mean", "X.SD", "Y.SD", "Date"))),
+                stringsAsFactors=F)
+
+for (i in system("ls OTB_Sampling_2025/", intern = TRUE)) {
+  df<- read.csv(paste0("OTB_Sampling_2025/",i))
+  date <- str_split_i(i, "_", 3)
+  date2<- str_extract(date, '.*(?=\\.csv$)')
+  df<- df %>% separate(Sample, into = c("Station", "var1", "var2"), sep = "_", remove = FALSE) %>% mutate(Rep = case_when(
+  var1 == "" ~ var2,
+  var1 != "" ~ var1
+)) %>% 
+  #filter(Gate =="R3") %>% 
+  select(Sample, Station, Rep, Gate, X.Parameter, Y.Parameter, Volume, Concentration, X.Mean, Y.Mean, X.SD, Y.SD) %>% 
+  filter(Sample != "Blank") 
+  df$Date <- date2
+  bact <- rbind(bact, df)
+}
+
+bact$Date <- ymd(bact$Date)
+
+
+bact<- bact %>% mutate(Station_Number = case_when(
+  Station == "St1" ~ "01", 
+  Station == "St2" ~ "02",
+  Station == "St3" ~ "03",
+  Station == "St4" ~ "04",
+  Station == "St5" ~ "05",
+  Station == "St6" ~ "06",
+  Station == "St7" ~ "07",
+  Station == "St8" ~ "08",
+  Station == "St9" ~ "09",
+  Station == "St10" ~ "10"
+))
+
+bact$Station_Number <- factor(bact$Station_Number, levels = c("01", "02", "03", "04", "05", "06", "07", "08", "09", "10"))
+```
+
+
+
+filter(Gate == "R3") 
+```{r}
+bact4plot <- bact %>% filter(Gate == "R3") %>% filter(X.Parameter =="FSC - FSC-H")
+
+bact4plot %>% ggplot(aes(x=Date, y = Concentration, color = Station_Number)) + geom_point() + theme_test() + scale_color_manual(values = TBcolors)
+```
+
+
+
+```{r}
+bact4plot %>% group_by(Station_Number, Date,) %>% dplyr::summarize(mean_conc = mean(Concentration), sd = sd(Concentration)) %>% ggplot(aes(x=Date, y = mean_conc, color = Station_Number)) + geom_point() + theme_test() + scale_color_manual(values = TBcolors) + geom_errorbar(aes(ymin=mean_conc-sd, ymax=mean_conc+sd), width=.001) 
+```
+
+
+```{r}
+
+bactP<- bact4plot %>% group_by(Station_Number, Date,) %>% dplyr::summarize(mean_conc = mean(Concentration), sd = sd(Concentration)) %>% ggplot(aes(x=Date, y = mean_conc, color = Station_Number)) + geom_point() + theme_test() + scale_color_manual(values = TBcolors) + geom_errorbar(aes(ymin=mean_conc-sd, ymax=mean_conc+sd), width=.001) + geom_line()
+
+bactP
+```
+
+ggsave("BacteriaCounts.pdf", width = 6, height = 3)
+
+
+Combine Data and Correlate
+```{r}
+field <- unique(FWC %>% filter(Sample.Depth..m. == 0.5) %>% select(Sample.Date, Station.ID, Latitude, Longitude, Chlorophyll.fluorescence..µg.L., Temp..ᵒC., Salinity)) 
+
+field$Station_Number <-  sapply(strsplit(locs$Station.ID, "\\s+"), tail, 1)
+
+field <- field %>% select(Station_Number, Sample.Date, Chlorophyll.fluorescence..µg.L., Temp..ᵒC., Salinity, Latitude, Longitude)
+names(field) <- c("Station_Number", "Date", "Chla", "Temp", "Salinity", "Latitude", "Longitude" )
+
+field$Date <- dmy(field$Date )
+
+bact4merge<- bact4plot %>% group_by(Station_Number, Date) %>% dplyr::summarize(mean_conc = mean(Concentration))
+
+field$Station_Number <- factor(field$Station_Number, levels = c("01", "02", "03", "04", "05", "06", "07", "08", "09", "10"))
+
+joined <- full_join(field, bact4merge)
+
+#write.csv(joined, "CleanedData.csv", quote = FALSE, row.names = FALSE)
+```
+
+
+
+```{r}
+#test
+joined%>% ggplot(aes(x=Date, y = Chla, color = Station_Number)) + geom_point() + theme_test() + scale_color_manual(values = TBcolors)  + geom_line()
+```
+
+
+```{r}
+library(patchwork)
+
+tempP / salP / bactP + plot_layout(guides = "collect")
+```
+
+ggsave("temp_sal_bact.pdf",width = 6, height = 8)
+
+
+```{r}
+library(magrittr)
+library(liver)
+
+joined$Temp_z <- transform(joined$Temp, method = "zscore")
+joined$Chla_z  <- transform(joined$Chla, method = "zscore")
+joined$Salinity_z  <- transform(joined$Salinity, method = "zscore")
+joined$Bact_z  <- transform(joined$mean_conc, method = "zscore")
+
+Zs<- joined %>% select(Temp_z, Chla_z, Salinity_z, Bact_z)
+```
+
+
+```{r}
+library(corrplot)
+
+testRes = cor.mtest( Zs, conf.level = 0.95)
+
+
+M = cor(Zs, use = "na.or.complete",
+    method = "spearman")
+
+corrplot(M, p.mat = testRes$p, diag = FALSE, type = 'full', 
+         sig.level = c( 0.01), pch.cex = 1.3,
+         insig = 'label_sig', pch.col = 'black', tl.col = "black", title = "")
+
+```
+
+```{r}
+M
+```
+
+
+----- 
+Make Matrix groups 
+
+```{r}
+ext_dates <- joined %>% filter(Date %in% c("2025-05-08", "2025-06-19", "2025-07-01", "2025-07-31", "2025-08-29", "2025-09-25", "2025-10-14"))
+
+
+#70 samples. 70 - 6 = 64 
+# 64/8 = 8
+# so 9 matrix groups total 
+
+matrix<- ext_dates %>% select(Station_Number, Date, Salinity, Chla, mean_conc, Temp) %>%  arrange(Salinity)
+
+matrix$order <- c(1:70)
+
+write.csv(matrix, "matrixorder.csv", quote = FALSE, row.names = FALSE)
+```
+
+
+*Microscopy-based taxonomy and cell counts*
+```{r}
+taxa <- FWC%>%  filter(Sample.Depth..m. == 0.5) %>% select(Sample.Date, Sample.Depth..m., Station_Number, Latitude, Longitude, Taxa, Abundance..cells.L..) %>% filter(Abundance..cells.L.. != 0)
+
+taxa$Sample.Date <- factor(taxa$Sample.Date, levels = c("08-May-25", "23-May-25" ,"11-Jun-25", "19-Jun-25", "01-Jul-25", "18-Jul-25", "31-Jul-25", "13-Aug-25", "29-Aug-25","11-Sep-25" ,"25-Sep-25" ,"14-Oct-25")) 
+```
+
+```{r}
+taxa %>% ggplot( aes(x = Station_Number, y = Abundance..cells.L.., fill = Taxa)) +
+  geom_bar(stat = "identity") + facet_grid(Sample.Date~.)
+```
+
+```{r}
+taxa %>% ggplot( aes(x = Station_Number, y = Abundance..cells.L.., fill = Taxa)) +
+  geom_bar(stat = "identity") + facet_grid(Sample.Date~., scales = "free_y")
+```
+
+
+Only to Genus level: 
+
+```{r}
+color_palette_25 <- c(
+  "#E6194B", "#3CB44B", "#4363D8", "#FFE119", "#F58231",
+  "#911EB4", "#46F0F0", "#F032E6", "#BCF60C", "#FABEBE",
+  "#008080", "#E6BEFF", "#9A6324", "#FFFAC8", "#800000",
+  "#AAFFC3", "#808000", "#FFD8B1", "#000075", "#A9A9A9",
+  "lightblue", "#FF6B6B", "green", "#DDA0DD", "#2E8B57", "black")
+```
+
+
+```{r}
+taxa$taxa_1stword <- sapply(strsplit(taxa$Taxa, "\\s+"), head, 1) 
+
+taxa %>% ggplot( aes(x = Station_Number, y = Abundance..cells.L.., fill = taxa_1stword)) +
+  geom_bar(stat = "identity") + facet_grid(Sample.Date~., scales = "free_y") + scale_fill_manual(values = color_palette_25) + theme_classic()
+
+```
+Relative Abundance: 
+
+```{r}
+taxa_RA<- taxa %>% group_by(Station_Number, Sample.Date) %>% mutate(Abundance_total = sum(Abundance..cells.L..)) %>% mutate(RA = (Abundance..cells.L../Abundance_total)*100)
+```
+
+```{r}
+taxa_RA %>% ggplot( aes(x = Station_Number, y = RA, fill = taxa_1stword)) +
+  geom_bar(stat = "identity") + facet_grid(Sample.Date~., scales = "free_y") + scale_fill_manual(values = color_palette_25) + theme_classic()
+```
+
+
